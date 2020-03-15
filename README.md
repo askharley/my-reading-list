@@ -16,3 +16,9 @@
 ## Course
 - [Egghead - Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)
 - [Egghead - An Introduction to React Hooks](https://egghead.io/playlists/an-introduction-to-react-hooks-78da2b22)
+
+| Type | Title | Source |   |   |
+|------|-------|--------|---|---|
+|    [A Complete Guide to useEffect (Overreacted)](https://overreacted.io/a-complete-guide-to-useeffect/)  |       |        |   |   |
+|      |       |        |   |   |
+|      |       |        |   |   |
