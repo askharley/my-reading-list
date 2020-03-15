@@ -19,6 +19,6 @@
 
 | Type | Title | Source |
 |------|-------|--------|
-|      |       |        |
+|Article|[A Complete Guide to useEffect (Overreacted)](https://overreacted.io/a-complete-guide-to-useeffect/)|Overreacted|
 |      |       |        |
 |      |       |        |
