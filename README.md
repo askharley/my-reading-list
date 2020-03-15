@@ -7,6 +7,9 @@
 - [Build a JavaScript Command Line Interface (CLI) with Node.js](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
 - [JavaScript Object Literal](https://www.dyn-web.com/tutorials/object-literal/)
 
+## Stack Overflow
+- [DateTime vs DateTimeOffset](https://stackoverflow.com/questions/4331189/datetime-vs-datetimeoffset)
+
 ## Videos
 - [React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 
