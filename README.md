@@ -14,7 +14,7 @@
 - [Egghead - An Introduction to React Hooks](https://egghead.io/playlists/an-introduction-to-react-hooks-78da2b22)
 
 | Type | Title | Subject | Source |
-|------|-------|--------|
+|------|-------|---------|--------|
 |Article|[A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)|React|Overreacted|
 |Article|[5 key Redux libraries to improve code reuse](https://blog.logrocket.com/5-redux-libraries-to-improve-code-reuse-9f93eaceaa83/)|React|LogRocket|
 |Article|[React Router hooks will make your component cleaner (LogRocket)](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React|LogRocket|
