@@ -10,6 +10,7 @@
 |Article|[Build a JavaScript Command Line Interface (CLI) with Node.js](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)|JavaScript, CLI|sitepoint|
 |Video|[React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)|React|YouTube|
 |Video|[Formik 2.0 - Jared Palmer](https://www.youtube.com/watch?v=uyLrwn8FdmM)|React, Formik|YouTube|
+|Video|[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|YouTube|
 |Question|[DateTime vs DateTimeOffset](https://stackoverflow.com/questions/4331189/datetime-vs-datetimeoffset)|C#|Stack Overflow|
 |Course|[Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)|React, Redux|Egghead|
 |Course|[An Introduction to React Hooks](https://egghead.io/playlists/an-introduction-to-react-hooks-78da2b22)|React|Egghead|
