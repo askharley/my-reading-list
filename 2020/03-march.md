@@ -8,7 +8,7 @@
 |[Build a JavaScript Command Line Interface (CLI) with Node.js](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)|JavaScript, CLI|sitepoint|
 |[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)|Next.js, GatsbyJS|LogRocket|
 
-
+&nbsp;&nbsp;&nbsp;
 
 ## Docs
 | Title | Subjects | Source |
@@ -17,7 +17,7 @@
 |[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
 
-
+&nbsp;&nbsp;&nbsp;
 
 ## Videos
 | Title | Subjects | Source |
@@ -34,7 +34,7 @@
 |-------|---------|--------|
 |[DateTime vs DateTimeOffset](https://stackoverflow.com/questions/4331189/datetime-vs-datetimeoffset)|C#|Stack Overflow|
 
-
+&nbsp;&nbsp;&nbsp;
 
 ## Courses
 | Title | Subjects | Source |
@@ -45,7 +45,7 @@
 |[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
 |[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
 
-
+&nbsp;&nbsp;&nbsp;
 
 ## Podcasts
 | Title | Subjects | Source |
