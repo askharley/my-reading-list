@@ -1,3 +1,5 @@
+### Articles
+
 | Type | Title | Subject | Source |
 |------|-------|---------|--------|
 |Article|[A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)|React|Overreacted|
@@ -18,5 +20,16 @@
 |Course|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
 |Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
 |Course|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
-|Podcast|[Dan Abramov, co-author of Redux](https://open.spotify.com/episode/6Elh3a5iu6fImzMhrg0TX7?si=IdoWqdv-SLaOMAkRvd2vfw)|React, Redux|Egghead|
-|Podcast|[Learning React with Kent C. Dodds](https://open.spotify.com/episode/5RkR7FzhRbR78K7waziUGG?si=UHSsEe-7R8GhPZvCeq2jKQ)|React, ES6, JS|Egghead|
+
+
+### Docs
+
+### Videos
+
+### Courses
+
+### Podcasts
+| Title | Subject | Source |
+|-------|---------|--------|
+|[Dan Abramov, co-author of Redux](https://open.spotify.com/episode/6Elh3a5iu6fImzMhrg0TX7?si=IdoWqdv-SLaOMAkRvd2vfw)|React, Redux|Egghead|
+|[Learning React with Kent C. Dodds](https://open.spotify.com/episode/5RkR7FzhRbR78K7waziUGG?si=UHSsEe-7R8GhPZvCeq2jKQ)|React, ES6, JS|Egghead|
