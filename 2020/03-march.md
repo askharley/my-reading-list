@@ -14,6 +14,8 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|React|
+|[Context](https://reactjs.org/docs/context.html)|React|React|
+|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
 |[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
 
