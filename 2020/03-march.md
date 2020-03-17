@@ -1,4 +1,4 @@
-### Articles
+## Articles
 
 | Title | Subjects | Source |
 |-------|---------|--------|
@@ -9,14 +9,17 @@
 |[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)|Next.js, GatsbyJS|LogRocket|
 
 
-### Docs
+
+## Docs
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|React|
 |[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
 
-### Videos
+
+
+## Videos
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)|React|YouTube|
@@ -24,12 +27,16 @@
 |[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|YouTube|
 |[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|YouTube|
 
-### Questions
+
+
+## Questions
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[DateTime vs DateTimeOffset](https://stackoverflow.com/questions/4331189/datetime-vs-datetimeoffset)|C#|Stack Overflow|
 
-### Courses
+
+
+## Courses
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)|React, Redux|Egghead|
@@ -38,7 +45,9 @@
 |[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
 |[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
 
-### Podcasts
+
+
+## Podcasts
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Dan Abramov, co-author of Redux](https://open.spotify.com/episode/6Elh3a5iu6fImzMhrg0TX7?si=IdoWqdv-SLaOMAkRvd2vfw)|React, Redux|Egghead|
