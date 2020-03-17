@@ -19,3 +19,4 @@
 |Question|[DateTime vs DateTimeOffset](https://stackoverflow.com/questions/4331189/datetime-vs-datetimeoffset)|C#|Stack Overflow|
 |Course|[Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)|React, Redux|Egghead|
 |Course|[An Introduction to React Hooks](https://egghead.io/playlists/an-introduction-to-react-hooks-78da2b22)|React|Egghead|
+|Course|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
