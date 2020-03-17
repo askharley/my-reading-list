@@ -20,3 +20,5 @@
 |Course|[Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)|React, Redux|Egghead|
 |Course|[An Introduction to React Hooks](https://egghead.io/playlists/an-introduction-to-react-hooks-78da2b22)|React|Egghead|
 |Course|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
+|Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
+|Course|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
