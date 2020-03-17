@@ -7,6 +7,8 @@
 |[React Router hooks will make your component cleaner (LogRocket)](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React|LogRocket|
 |[Build a JavaScript Command Line Interface (CLI) with Node.js](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)|JavaScript, CLI|sitepoint|
 |[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)|Next.js, GatsbyJS|LogRocket|
+|[ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)|React|LucyBain|
+|[props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)|React|GitHub|
 
 &nbsp;&nbsp;&nbsp;
 
@@ -16,6 +18,7 @@
 |[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|React|
 |[Context](https://reactjs.org/docs/context.html)|React|React|
 |[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
+|State and Lifecycle[](https://reactjs.org/docs/state-and-lifecycle.html)|React|React|
 |[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
 
