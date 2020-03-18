@@ -32,10 +32,10 @@
 ## Videos
 | Title | Subjects | Source |
 |-------|---------|--------|
-|[React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)|React|YouTube|
-|[Formik 2.0 - Jared Palmer](https://www.youtube.com/watch?v=uyLrwn8FdmM)|React, Formik|YouTube|
-|[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|YouTube|
-|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|YouTube|
+|[React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)|React|React Conf|
+|[Formik 2.0 - Jared Palmer](https://www.youtube.com/watch?v=uyLrwn8FdmM)|React, Formik|GitNation React Conferences|
+|[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
+|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
 
 &nbsp;&nbsp;&nbsp;
 
