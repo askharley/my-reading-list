@@ -10,6 +10,7 @@
 |[ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)|React|LucyBain|
 |[props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)|React|GitHub|
 |[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
+|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
 
 &nbsp;&nbsp;&nbsp;
 
