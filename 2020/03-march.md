@@ -1,6 +1,6 @@
 ## Queue
 | Type | Title | Subjects | Source |
-|-------|---------|--------|
+|------|-------|----------|--------|
 |Article|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
 |Article|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
 |Article|[React Router hooks will make your component cleaner (LogRocket)](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React, React Router|LogRocket|
