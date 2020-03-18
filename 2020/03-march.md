@@ -46,7 +46,7 @@
 |-------|---------|--------|
 |[React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)|React|React Conf|
 |[Formik 2.0 - Jared Palmer](https://www.youtube.com/watch?v=uyLrwn8FdmM)|React, Formik|GitNation React Conferences|
-|[Why React is Eating the World | Adam Wolff](https://www.youtube.com/watch?v=GRAavzrjh7g)|React|React Conf\
+|[Why React is Eating the World - Adam Wolff](https://www.youtube.com/watch?v=GRAavzrjh7g)|React|React Conf\
 
 &nbsp;&nbsp;&nbsp;
 
