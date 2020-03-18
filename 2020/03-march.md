@@ -1,15 +1,15 @@
 ## Queue
-| Title | Subjects | Source |
+| Type | Title | Subjects | Source |
 |-------|---------|--------|
-|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
-|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
-|[React Router hooks will make your component cleaner (LogRocket)](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React, React Router|LogRocket|
-|[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
-|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
-|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
-|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
-|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
-|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
+|Article|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
+|Article|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
+|Article|[React Router hooks will make your component cleaner (LogRocket)](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React, React Router|LogRocket|
+|Video|[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
+|Video|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
+|Course|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
+|Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
+|Course|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
+|Course|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
 
 &nbsp;&nbsp;&nbsp;
 
