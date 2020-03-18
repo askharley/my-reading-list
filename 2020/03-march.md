@@ -9,6 +9,7 @@
 |[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)|Next.js, GatsbyJS|LogRocket|
 |[ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)|React|LucyBain|
 |[props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)|React|GitHub|
+|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
 
 &nbsp;&nbsp;&nbsp;
 
