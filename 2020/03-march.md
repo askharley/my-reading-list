@@ -1,16 +1,28 @@
+## Queue
+| Title | Subjects | Source |
+|-------|---------|--------|
+|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
+|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
+|[React Router hooks will make your component cleaner (LogRocket)](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React, React Router|LogRocket|
+|[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
+|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
+|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
+|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
+|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
+|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
+
+&nbsp;&nbsp;&nbsp;
+
 ## Articles
 
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)|React|Overreacted|
 |[5 key Redux libraries to improve code reuse](https://blog.logrocket.com/5-redux-libraries-to-improve-code-reuse-9f93eaceaa83/)|React, Redux|LogRocket|
-|[React Router hooks will make your component cleaner (LogRocket)](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React, React Router|LogRocket|
 |[Build a JavaScript Command Line Interface (CLI) with Node.js](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)|JavaScript, CLI|sitepoint|
 |[Next.js vs. GatsbyJS: A developer’s perspective](https://blog.logrocket.com/next-js-vs-gatsbyjs-a-developers-perspective/)|Next.js, GatsbyJS|LogRocket|
 |[ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)|React|LucyBain|
 |[props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)|React|GitHub|
-|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
-|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
 |[Declarative vs Imperative Programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)|React, Programming|Medium|
 
 &nbsp;&nbsp;&nbsp;
@@ -34,8 +46,6 @@
 |-------|---------|--------|
 |[React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)|React|React Conf|
 |[Formik 2.0 - Jared Palmer](https://www.youtube.com/watch?v=uyLrwn8FdmM)|React, Formik|GitNation React Conferences|
-|[Taming Forms in React - JARED PALMER](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
-|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
 
 &nbsp;&nbsp;&nbsp;
 
@@ -51,10 +61,6 @@
 |-------|---------|--------|
 |[Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)|React, Redux|Egghead|
 |[An Introduction to React Hooks](https://egghead.io/playlists/an-introduction-to-react-hooks-78da2b22)|React|Egghead|
-|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
-|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
-|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
-|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
 
 &nbsp;&nbsp;&nbsp;
 
