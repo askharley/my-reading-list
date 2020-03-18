@@ -53,7 +53,7 @@
 |[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
 |[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
 |[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
-|[Professor Frisby Introduces Composable Functional JavaScript](Professor Frisby Introduces Composable Functional JavaScript)|JavaScript, Functional Programming|Egghead|
+|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
 
 &nbsp;&nbsp;&nbsp;
 
