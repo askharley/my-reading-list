@@ -20,6 +20,7 @@
 |[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
 |[State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)|React|React|
 |[Code-Splitting](https://reactjs.org/docs/code-splitting.html)|React|React|
+|[Error Boundaries](https://reactjs.org/docs/error-boundaries.html)|React|React|
 |[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
 
