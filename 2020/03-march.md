@@ -10,6 +10,11 @@
 |Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
 |Course|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
 |Course|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
+|Doc|[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
+|Doc|[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
+|Doc|[Context](https://reactjs.org/docs/context.html)|React|React|
+|Doc|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
+|Doc|[State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)|React|React|
 
 &nbsp;&nbsp;&nbsp;
 
@@ -31,13 +36,9 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|React|
-|[Context](https://reactjs.org/docs/context.html)|React|React|
-|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
-|[State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)|React|React|
 |[Code-Splitting](https://reactjs.org/docs/code-splitting.html)|React|React|
 |[Error Boundaries](https://reactjs.org/docs/error-boundaries.html)|React|React|
-|[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
-|[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
+
 
 &nbsp;&nbsp;&nbsp;
 
