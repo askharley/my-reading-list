@@ -76,6 +76,7 @@
 |[Learning React with Kent C. Dodds](https://open.spotify.com/episode/5RkR7FzhRbR78K7waziUGG?si=UHSsEe-7R8GhPZvCeq2jKQ)|React, ES6, JS|Egghead|
 |[React Router with Michael Jackson](https://open.spotify.com/episode/5lvNEEHnEZB5rAJi8RF6AJ?si=ZFUquRb0TQGXbY-i5V4WUg)|React, React Router|Egghead|
 |[Michel Weststrate creator of Mobx and Immer Libraries for JavaScript](https://open.spotify.com/episode/2u6G7zEAOVCpXrvailL4HD?si=UuB3m8zJRWms6I5p7GSp9A)|Mobx, Immer|Egghead|
+|[Brian Vaughn, React Core Team](https://open.spotify.com/episode/2Fir5EynhOwQRK0c87BiZn?si=gjAT1zEiRwS-HsdRTN-6ag)|React, Egghead|
 
 &nbsp;&nbsp;&nbsp;
 
