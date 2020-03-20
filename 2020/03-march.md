@@ -30,6 +30,7 @@
 |[ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)|React|LucyBain|
 |[props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)|React|GitHub|
 |[Declarative vs Imperative Programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)|React, Programming|Medium|
+|[JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)|JavaScript, foreach(), map()|Medium|
 
 &nbsp;&nbsp;&nbsp;
 
