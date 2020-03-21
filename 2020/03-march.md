@@ -83,4 +83,5 @@
 ## Streams
 | Title | Subjects | Source |
 |-------|---------|--------|
-|[React Workout - 18/03/2020](https://www.twitch.tv/videos/569841947)|React, Reducers|Twitch|
+|[React Workout - Reducers](https://www.twitch.tv/videos/569841947)|React, Reducers|Twitch|
+|[React Workout - usEffect](https://www.twitch.tv/videos/571307371)|React, useEffect|Twitch|
