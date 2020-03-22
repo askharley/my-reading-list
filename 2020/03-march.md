@@ -51,6 +51,7 @@
 |[Formik 2.0 - Jared Palmer](https://www.youtube.com/watch?v=uyLrwn8FdmM)|React, Formik|GitNation React Conferences|
 |[Why React is Eating the World - Adam Wolff](https://www.youtube.com/watch?v=GRAavzrjh7g)|React|React Conf|
 |[My Thoughts on React Hooks](https://www.youtube.com/watch?v=gmF4k6P2va8)|React, Hooks|Bed Awad|
+|[The Future of JavaScript](https://www.youtube.com/watch?v=f0DrPLKf6Ro)|JavaScript|Fireship|
 
 &nbsp;&nbsp;&nbsp;
 
