@@ -68,6 +68,11 @@
 |[Reduce Redux Boilerplate with Redux-Actions](https://egghead.io/courses/reduce-redux-boilerplate-with-redux-actions)|React, Redux|Egghead|
 |[An Introduction to React Hooks](https://egghead.io/playlists/an-introduction-to-react-hooks-78da2b22)|React|Egghead|
 
+## Playlists
+| Title | Subjects | Source |
+|-------|---------|--------|
+|[Learn Practical Application of Short Circuits in JavaScript](https://egghead.io/playlists/learn-practical-application-of-short-circuits-in-javascript-b2a8)|JavaScript, Short Circuits|Egghead|
+
 &nbsp;&nbsp;&nbsp;
 
 ## Podcasts
