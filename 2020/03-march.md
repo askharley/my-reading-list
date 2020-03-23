@@ -54,6 +54,7 @@
 |[Why React is Eating the World - Adam Wolff](https://www.youtube.com/watch?v=GRAavzrjh7g)|React|React Conf|
 |[My Thoughts on React Hooks](https://www.youtube.com/watch?v=gmF4k6P2va8)|React, Hooks|Bed Awad|
 |[The Future of JavaScript](https://www.youtube.com/watch?v=f0DrPLKf6Ro)|JavaScript|Fireship|
+|[Fun with React Hooks - Michael Jackson & Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)|React, Hooks|Boston React|
 
 &nbsp;&nbsp;&nbsp;
 
