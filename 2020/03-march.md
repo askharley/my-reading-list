@@ -17,6 +17,7 @@
 |Doc|[Context](https://reactjs.org/docs/context.html)|React|React|
 |Doc|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
 |Doc|[State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)|React|React|
+|Podcast|[Kent C. Dodds - How To Replace Your Salary by Creating Content](https://www.ecpodcast.io/episodes/19-kent-c-dodds-how-to-replace-your-salary-by-creating-content)|Entrepeneurial|ECPodcast|
 
 &nbsp;&nbsp;&nbsp;
 
