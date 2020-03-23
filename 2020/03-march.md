@@ -55,6 +55,7 @@
 |[My Thoughts on React Hooks](https://www.youtube.com/watch?v=gmF4k6P2va8)|React, Hooks|Bed Awad|
 |[The Future of JavaScript](https://www.youtube.com/watch?v=f0DrPLKf6Ro)|JavaScript|Fireship|
 |[Fun with React Hooks - Michael Jackson & Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)|React, Hooks|Boston React|
+|[Ryan Florence - The Curse of React](https://www.youtube.com/watch?v=orq9XnHGTgQ)|React|ZEIT|
 
 &nbsp;&nbsp;&nbsp;
 
