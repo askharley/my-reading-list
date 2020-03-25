@@ -5,7 +5,6 @@
 |Article|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
 |Article|[React Router hooks will make your component cleaner](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React, React Router|LogRocket|
 |Article|[Understanding Error Boundaries in React](https://blog.bitsrc.io/understanding-error-boundaries-in-react-e58f15ae1f38)|React, Error Boundaries|Medium|
-|Article|[JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)|JavaScript, Short Circuits|Medium|
 |Article|[How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)|DDD|AltKom|
 |Video|[Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
 |Video|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
@@ -34,6 +33,7 @@
 |[props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)|React|GitHub|
 |[Declarative vs Imperative Programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)|React, Programming|Medium|
 |[JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)|JavaScript, foreach(), map()|Medium|
+[JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)|JavaScript, Short Circuits|Medium|
 
 &nbsp;&nbsp;&nbsp;
 
