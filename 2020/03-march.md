@@ -14,7 +14,6 @@
 |Course|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
 |Doc|[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |Doc|[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
-|Doc|[Context](https://reactjs.org/docs/context.html)|React|React|
 |Doc|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
 |Doc|[State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)|React|React|
 |Podcast|[Kent C. Dodds - How To Replace Your Salary by Creating Content](https://www.ecpodcast.io/episodes/19-kent-c-dodds-how-to-replace-your-salary-by-creating-content)|Entrepeneurial|ECPodcast|
@@ -43,6 +42,7 @@
 |[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|React|
 |[Code-Splitting](https://reactjs.org/docs/code-splitting.html)|React|React|
 |[Error Boundaries](https://reactjs.org/docs/error-boundaries.html)|React|React|
+|Doc|[Context](https://reactjs.org/docs/context.html)|React|React|
 
 
 &nbsp;&nbsp;&nbsp;
