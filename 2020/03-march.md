@@ -89,6 +89,7 @@
 |[React Router with Michael Jackson](https://open.spotify.com/episode/5lvNEEHnEZB5rAJi8RF6AJ?si=ZFUquRb0TQGXbY-i5V4WUg)|React, React Router|Egghead|
 |[Michel Weststrate creator of Mobx and Immer Libraries for JavaScript](https://open.spotify.com/episode/2u6G7zEAOVCpXrvailL4HD?si=UuB3m8zJRWms6I5p7GSp9A)|Mobx, Immer|Egghead|
 |[Brian Vaughn, React Core Team](https://open.spotify.com/episode/2Fir5EynhOwQRK0c87BiZn?si=gjAT1zEiRwS-HsdRTN-6ag)|React|Egghead|
+|[Ives Van Hoorne, creator of CodeSandbox](https://open.spotify.com/episode/0BLZYZWEQ8xmE8s7Wylost?si=-HFvSCCsSFe3TCj8QF-_SQ)|codesandbox|Egghead|
 
 &nbsp;&nbsp;&nbsp;
 
