@@ -43,7 +43,7 @@
 |[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|React|
 |[Code-Splitting](https://reactjs.org/docs/code-splitting.html)|React|React|
 |[Error Boundaries](https://reactjs.org/docs/error-boundaries.html)|React|React|
-|Doc|[Context](https://reactjs.org/docs/context.html)|React|React|
+|[Context](https://reactjs.org/docs/context.html)|React|React|
 
 
 &nbsp;&nbsp;&nbsp;
