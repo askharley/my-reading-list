@@ -66,6 +66,7 @@
 |-------|---------|--------|
 |[DateTime vs DateTimeOffset](https://stackoverflow.com/questions/4331189/datetime-vs-datetimeoffset)|C#|Stack Overflow|
 |[useState set method not reflecting change immediately](https://stackoverflow.com/questions/54069253/usestate-set-method-not-reflecting-change-immediately)|React|Stack Overflow|
+|[Enums in JavaScript with ES6](https://stackoverflow.com/questions/44447847/enums-in-javascript-with-es6)|JavaScript, ES6|Stack Overflow|
 
 &nbsp;&nbsp;&nbsp;
 
