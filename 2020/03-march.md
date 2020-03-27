@@ -58,6 +58,7 @@
 |[The Future of JavaScript](https://www.youtube.com/watch?v=f0DrPLKf6Ro)|JavaScript|Fireship|
 |[Fun with React Hooks - Michael Jackson & Ryan Florence](https://www.youtube.com/watch?v=1jWS7cCuUXw)|React, Hooks|Boston React|
 |[Ryan Florence - The Curse of React](https://www.youtube.com/watch?v=orq9XnHGTgQ)|React|ZEIT|
+|[What is THIS in JavaScript?](https://www.youtube.com/watch?v=YOlr79NaAtQ)|JavaScript|Fireship|
 
 &nbsp;&nbsp;&nbsp;
 
