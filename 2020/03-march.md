@@ -34,8 +34,7 @@
 |[Declarative vs Imperative Programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)|React, Programming|Medium|
 |[JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)|JavaScript, foreach(), map()|Medium|
 [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)|JavaScript, Short Circuits|Medium|
-|[A definitive guide to Redux vs. MobX
-](https://blog.logrocket.com/redux-vs-mobx/)|React, Mobx|LogRocket|
+|[A definitive guide to Redux vs. MobX](https://blog.logrocket.com/redux-vs-mobx/)|React, Mobx|LogRocket|
 
 &nbsp;&nbsp;&nbsp;
 
