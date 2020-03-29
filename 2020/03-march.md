@@ -13,6 +13,7 @@
 |Course|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
 |Course|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
 |Course|[Manage Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree)|MobX|Egghead|
+|Course|[Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)|MobX|Egghead|
 |Doc|[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |Doc|[`createEntityAdapter`](https://deploy-preview-374--redux-starter-kit-docs.netlify.com/api/createentityadapter/)|Redux|Redux Toolkit|
 |Doc|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
