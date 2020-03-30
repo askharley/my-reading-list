@@ -107,15 +107,15 @@
 |[React Workout - useEffect](https://www.twitch.tv/videos/571307371)|React, useEffect|Twitch|
 
 ## Repos
-| Title | Auther |
+| Title | Author |
 |-------|--------|
 |[xstate](https://github.com/davidkpiano/xstate)|[David Khourshid](https://github.com/davidkpiano)|
 |[formik](https://github.com/jaredpalmer/formik)|[Jared Palmer](https://github.com/jaredpalmer)|
-|[flux-standard-actions(https://github.com/redux-utilities/flux-standard-action)]|[Redux Utilities](https://github.com/redux-utilities)|
-|[redux-actions(https://github.com/redux-utilities/redux-actions)]|[Redux Utilities](https://github.com/redux-utilities)|
+|[flux-standard-actions](https://github.com/redux-utilities/flux-standard-action)|[Redux Utilities](https://github.com/redux-utilities)|
+|[redux-actions](https://github.com/redux-utilities/redux-actions)|[Redux Utilities](https://github.com/redux-utilities)|
 |[moment](https://github.com/moment/moment)|[Moment](https://github.com/moment)|
 |[react-dates](https://github.com/airbnb/react-dates)|[Airbnb](https://github.com/airbnb)|
 |[react-select](https://github.com/JedWatson/react-select)|[Jed Watson](https://github.com/JedWatson)|
+|[react-query](https://github.com/tannerlinsley/react-query)|[Tanner Linsley](https://github.com/tannerlinsley)|
 |[react-data-table-component](https://github.com/jbetancur/react-data-table-component)|[John Betancur](https://github.com/jbetancur)|
 |[react-file-viewer](https://github.com/plangrid/react-file-viewer)|[PlanGrid](https://github.com/plangrid)|
-
