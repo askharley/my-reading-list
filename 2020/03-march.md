@@ -107,13 +107,15 @@
 |[React Workout - useEffect](https://www.twitch.tv/videos/571307371)|React, useEffect|Twitch|
 
 ## Repos
-| Title | Auther | Subject | Source |
-|-------|--------|---------|--------|
-|xstate|[davidkpiano](https://github.com/davidkpiano)|[Source](https://github.com/davidkpiano/xstate)|
+| Title | Auther  | Source |
+|-------|---------|--------|
+|xstate|[David Khourshid](https://github.com/davidkpiano)|[Source](https://github.com/davidkpiano/xstate)|
 |formik|[Jared Palmer](https://github.com/jaredpalmer)|[Source](https://github.com/jaredpalmer/formik)|
-|flux-standard-actions|[redux-utilities](https://github.com/redux-utilities)|[Source](https://github.com/redux-utilities/flux-standard-action)|
-|Redux Actions|[redux-utilities](https://github.com/redux-utilities)|[Source](https://github.com/redux-utilities/redux-actions)|
+|flux-standard-actions|[Redux Utilities](https://github.com/redux-utilities)|[Source](https://github.com/redux-utilities/flux-standard-action)|
+|Redux Actions|[Redux Utilities](https://github.com/redux-utilities)|[Source](https://github.com/redux-utilities/redux-actions)|
 |moment|[Moment](https://github.com/moment)|[Source](https://github.com/moment/moment)|
-|react-dates|[AirBnB](https://github.com/airbnb)|[Source](https://github.com/airbnb/react-dates)|
+|react-dates|[Airbnb](https://github.com/airbnb)|[Source](https://github.com/airbnb/react-dates)|
 |react-select|[Jed Watson](https://github.com/JedWatson)|[Source](https://github.com/JedWatson/react-select)|
+|react-data-table-component|[John Betancur](https://github.com/jbetancur)|[Source](https://github.com/jbetancur/react-data-table-component)|
+|react-file-viewer|[PlanGrid](https://github.com/plangrid)|[Source](https://github.com/plangrid/react-file-viewer)|
 
