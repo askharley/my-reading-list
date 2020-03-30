@@ -109,10 +109,11 @@
 ## Repos
 | Title | Auther | Subject | Source |
 |-------|--------|---------|--------|
-|XState|[davidkpiano](https://github.com/davidkpiano)|State Machines|[Source](https://github.com/davidkpiano/xstate)|
-|Formik|[jaredpalmer](https://github.com/jaredpalmer)|React Forms|[Source](https://github.com/jaredpalmer/formik)|
-|Flux Standard Action|[redux-utilities](https://github.com/redux-utilities)|Flux|[Source](https://github.com/redux-utilities/flux-standard-action)|
-|Redux Actions|[redux-utilities](https://github.com/redux-utilities)|Redux Actions|[Source](https://github.com/redux-utilities/redux-actions)|
-|Moment|[moment](https://github.com/moment)|Moment|[Source](https://github.com/moment/moment)|
-|React Dates|[airbnb](https://github.com/airbnb)|React Dates|[Source](https://github.com/airbnb/react-dates)|
+|xstate|[davidkpiano](https://github.com/davidkpiano)|[Source](https://github.com/davidkpiano/xstate)|
+|formik|[Jared Palmer](https://github.com/jaredpalmer)|[Source](https://github.com/jaredpalmer/formik)|
+|flux-standard-actions|[redux-utilities](https://github.com/redux-utilities)|[Source](https://github.com/redux-utilities/flux-standard-action)|
+|Redux Actions|[redux-utilities](https://github.com/redux-utilities)|[Source](https://github.com/redux-utilities/redux-actions)|
+|moment|[Moment](https://github.com/moment)|[Source](https://github.com/moment/moment)|
+|react-dates|[AirBnB](https://github.com/airbnb)|[Source](https://github.com/airbnb/react-dates)|
+|react-select|[Jed Watson](https://github.com/JedWatson)|[Source](https://github.com/JedWatson/react-select)|
 
