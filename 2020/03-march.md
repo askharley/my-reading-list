@@ -109,6 +109,9 @@
 ## Repos
 | Title | Auther | Subject | Source |
 |-------|--------|---------|--------|
-|xstate|[davidkpiano](https://github.com/davidkpiano)|State Machines|[Source](https://github.com/davidkpiano/xstate)|
+|XState|[davidkpiano](https://github.com/davidkpiano)|State Machines|[Source](https://github.com/davidkpiano/xstate)|
+|Formik|[jaredpalmer](https://github.com/jaredpalmer)|React Forms|[Source](https://github.com/jaredpalmer/formik)|
+|Flux Standard Action|[redux-utilities](https://github.com/redux-utilities)|Flux|[Source](https://github.com/redux-utilities/flux-standard-action|
+|Redux Actions|[redux-utilities](https://github.com/redux-utilities)|Redux Actions|[Source](https://github.com/redux-utilities/redux-actions)|
 
 
