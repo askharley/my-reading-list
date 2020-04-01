@@ -57,7 +57,6 @@
 ## Playlists
 | Title | Subjects | Source |
 |-------|---------|--------|
-|[Learn Practical Application of Short Circuits in JavaScript](https://egghead.io/playlists/learn-practical-application-of-short-circuits-in-javascript-b2a8)|JavaScript, Short Circuits|Egghead|
 
 &nbsp;&nbsp;&nbsp;
 
