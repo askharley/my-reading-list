@@ -41,6 +41,7 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)|React Hooks|JSConf|
+|[I'm done with TypeScript](https://www.youtube.com/watch?v=QVkPCb7MduY)|TypeScript|Bew Awad|
 
 &nbsp;&nbsp;&nbsp;
 
