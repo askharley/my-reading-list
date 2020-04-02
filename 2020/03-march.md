@@ -75,12 +75,6 @@
 
 &nbsp;&nbsp;&nbsp;
 
-## Streams
-| Title | Subjects | Source |
-|-------|---------|--------|
-|[React Workout - Reducers](https://www.twitch.tv/videos/569841947)|React, Reducers|Twitch|
-|[React Workout - useEffect](https://www.twitch.tv/videos/571307371)|React, useEffect|Twitch|
-
 ## Repos
 | Title | Author |
 |-------|--------|
