@@ -41,7 +41,7 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)|React Hooks|JSConf|
-|[I'm done with TypeScript](https://www.youtube.com/watch?v=QVkPCb7MduY)|TypeScript|Bew Awad|
+|[Ives van Hoorne of CodeSandbox interview by Jared Palmer](https://www.youtube.com/watch?v=FHAdtywDX-A)]|Codesandbox|React Europe|
 
 &nbsp;&nbsp;&nbsp;
 
