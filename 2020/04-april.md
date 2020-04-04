@@ -31,9 +31,9 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Docs
-| Title | Subjects | Source |
-|-------|---------|--------|
-|[React Component](https://reactjs.org/docs/react-component.html)|React Component|
+| Title | Subjects |
+|-------|---------|
+|[React Component](https://reactjs.org/docs/react-component.html)|Component, Lifecycles|
 
 &nbsp;&nbsp;&nbsp;
 
