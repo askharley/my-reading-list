@@ -16,12 +16,12 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Docs
-| Title | Subjects | Source |
-|-------|---------|--------|
-|[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|React|
-|[Code-Splitting](https://reactjs.org/docs/code-splitting.html)|React|React|
-|[Error Boundaries](https://reactjs.org/docs/error-boundaries.html)|React|React|
-|[Context](https://reactjs.org/docs/context.html)|React|React|
+| Title | Subjects |
+|-------|---------|
+|[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)|React|
+|[Code-Splitting](https://reactjs.org/docs/code-splitting.html)|React|
+|[Error Boundaries](https://reactjs.org/docs/error-boundaries.html)|React|
+|[Context](https://reactjs.org/docs/context.html)|React|
 
 
 &nbsp;&nbsp;&nbsp;
