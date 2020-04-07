@@ -43,6 +43,7 @@
 |[Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)|React Hooks|JSConf|
 |[Ives van Hoorne of CodeSandbox interview by Jared Palmer](https://www.youtube.com/watch?v=FHAdtywDX-A)|Codesandbox|React Europe|
 |[Building React-Select - Jed Watson](https://www.youtube.com/watch?v=yS0jUnmBujE)|React-Select|React Conf|
+|[The introduction to React you've been missing - Kent C. Dodds](https://www.youtube.com/watch?v=SAIdyBFHfVU)|React|UtahJS|
 
 &nbsp;&nbsp;&nbsp;
 
