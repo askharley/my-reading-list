@@ -14,7 +14,6 @@
 |Course|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
 |Course|[Manage Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree)|MobX|Egghead|
 |Course|[Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)|MobX|Egghead|
-|Course|[Introduction to State Machines Using XState](https://egghead.io/courses/introduction-to-state-machines-using-xstate)|XState|Egghead|
 |Doc|[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |Doc|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
 |Podcast|[Kent C. Dodds - How To Replace Your Salary by Creating Content](https://www.ecpodcast.io/episodes/19-kent-c-dodds-how-to-replace-your-salary-by-creating-content)|Entrepeneurial|ECPodcast|
@@ -56,6 +55,7 @@
 ## Courses
 | Title | Subjects | Source |
 |-------|---------|--------|
+|[Introduction to State Machines Using XState](https://egghead.io/courses/introduction-to-state-machines-using-xstate)|XState|Egghead|
 
 ## Playlists
 | Title | Subjects | Source |
