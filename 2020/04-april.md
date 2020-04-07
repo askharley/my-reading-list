@@ -33,7 +33,9 @@
 ## Docs
 | Title | Subjects |
 |-------|---------|
-|[React Component](https://reactjs.org/docs/react-component.html)|Component, Lifecycles|
+|[Components and Props](https://reactjs.org/docs/components-and-props.html)|Components, Props|
+|[State and Lifecycles](https://reactjs.org/docs/state-and-lifecycle.html)|States, Lifecycles|
+|[React.Component](https://reactjs.org/docs/react-component.html)|Components, Lifecycles|
 
 &nbsp;&nbsp;&nbsp;
 
