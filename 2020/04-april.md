@@ -46,6 +46,7 @@
 |[Building React-Select - Jed Watson](https://www.youtube.com/watch?v=yS0jUnmBujE)|React-Select|React Conf|
 |[The introduction to React you've been missing - Kent C. Dodds](https://www.youtube.com/watch?v=SAIdyBFHfVU)|React|UtahJS|
 |[Pete Hunt - React - Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)|React|JSConf|
+|[Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY)|Functional Programming, JavaScript|JSConf|
 
 &nbsp;&nbsp;&nbsp;
 
