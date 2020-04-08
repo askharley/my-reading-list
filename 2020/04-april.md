@@ -48,7 +48,7 @@
 |[Rethinking best practices - Pete Hunt](https://www.youtube.com/watch?v=x7cQ3mrcKaY)|React|JSConf|
 |[Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY)|Functional Programming, JavaScript|JSConf|
 |[React is Fiction - Jenn Creighton](https://www.youtube.com/watch?v=kqh4lz2Lkzs)|React|React Conf|
-|[Components as Units of Work - Bryce Kalow](https://www.youtube.com/watch?v=tlSbgrPe420)||React Conf|
+|[Components as Units of Work - Bryce Kalow](https://www.youtube.com/watch?v=tlSbgrPe420)|React, Components, Life Cycles|React Conf|
 
 &nbsp;&nbsp;&nbsp;
 
