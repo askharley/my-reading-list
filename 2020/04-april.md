@@ -24,7 +24,7 @@
 
 | Title | Subjects | Source |
 |-------|---------|--------|
-|Redux Immutable Update Patterns|Redux|[LogRocket](https://blog.logrocket.com/redux-immutable-update-patterns/)|
+|[Redux Immutable Update Patterns](https://blog.logrocket.com/redux-immutable-update-patterns/)|Redux|LogRocket|
 
 &nbsp;&nbsp;&nbsp;
 
