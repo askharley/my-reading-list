@@ -26,6 +26,7 @@
 |-------|---------|--------|
 |[Redux Immutable Update Patterns](https://blog.logrocket.com/redux-immutable-update-patterns/)|Redux|LogRocket|
 |[React Router hooks will make your component cleaner](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React Router|LogRocket|
+|[JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react?ck_subscriber_id=640811457)|React, JavaScript|Kent C. Dodds
 
 &nbsp;&nbsp;&nbsp;
 
