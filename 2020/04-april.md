@@ -3,7 +3,6 @@
 |------|-------|----------|--------|
 |Article|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
 |Article|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
-|Article|[React Router hooks will make your component cleaner](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React, React Router|LogRocket|
 |Article|[Understanding Error Boundaries in React](https://blog.bitsrc.io/understanding-error-boundaries-in-react-e58f15ae1f38)|React, Error Boundaries|Medium|
 |Article|[How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)|DDD|AltKom|
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
@@ -26,6 +25,7 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Redux Immutable Update Patterns](https://blog.logrocket.com/redux-immutable-update-patterns/)|Redux|LogRocket|
+|[React Router hooks will make your component cleaner](https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/)|React Router|LogRocket|
 
 &nbsp;&nbsp;&nbsp;
 
