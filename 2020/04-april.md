@@ -56,6 +56,7 @@
 |[Components as Units of Work - Bryce Kalow](https://www.youtube.com/watch?v=tlSbgrPe420)|React, Components, Life Cycles|React Conf|
 |[Immutable data structures for functional JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=Wo0qiGPSV-s)|Immutable Data Structures|JSConf|
 |[Development With XState](https://www.youtube.com/watch?v=GuzcWkVrqLg)|XState|Atlassian|
+|[Why TypeScript is Actually Good](https://www.youtube.com/watch?v=Ptrhz2zW--o)|TypeScript|Ben Awad|
 
 &nbsp;&nbsp;&nbsp;
 
