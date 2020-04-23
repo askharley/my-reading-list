@@ -62,6 +62,7 @@
 |[Immutable data structures for functional JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=Wo0qiGPSV-s)|Immutable Data Structures|JSConf|
 |[Development With XState](https://www.youtube.com/watch?v=GuzcWkVrqLg)|XState|Atlassian|
 |[Why TypeScript is Actually Good](https://www.youtube.com/watch?v=Ptrhz2zW--o)|TypeScript|Ben Awad|
+|[Avoid Hasty Abstractions](https://www.youtube.com/watch?v=Wyk01ySxg0A)|Kent C Doddgs|React Summit|
 
 &nbsp;&nbsp;&nbsp;
 
