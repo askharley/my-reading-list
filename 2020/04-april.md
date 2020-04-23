@@ -42,6 +42,7 @@
 |[State and Lifecycles](https://reactjs.org/docs/state-and-lifecycle.html)|States, Lifecycles|React|
 |[React.Component](https://reactjs.org/docs/react-component.html)|Components, Lifecycles|React|
 |[createReducer](https://redux-toolkit.js.org/api/createReducer)|Redux|Redux Toolkit|
+|[createAsyncThunk](https://redux-toolkit.js.org/api/createAsyncThunk)|Redux|Redux Thunk|
 
 &nbsp;&nbsp;&nbsp;
 
