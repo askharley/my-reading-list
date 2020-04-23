@@ -64,6 +64,7 @@
 |[Development With XState](https://www.youtube.com/watch?v=GuzcWkVrqLg)|XState|Atlassian|
 |[Why TypeScript is Actually Good](https://www.youtube.com/watch?v=Ptrhz2zW--o)|TypeScript|Ben Awad|
 |[Avoid Hasty Abstractions](https://www.youtube.com/watch?v=Wyk01ySxg0A)|Kent C Doddgs|React Summit|
+|[Simplify Creating Immutable Data Trees With Immer](https://egghead.io/lessons/redux-simplify-creating-immutable-data-trees-with-immer)|Immer|Egghead|
 
 &nbsp;&nbsp;&nbsp;
 
