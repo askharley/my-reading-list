@@ -41,6 +41,7 @@
 |[Components and Props](https://reactjs.org/docs/components-and-props.html)|Components, Props|React|
 |[State and Lifecycles](https://reactjs.org/docs/state-and-lifecycle.html)|States, Lifecycles|React|
 |[React.Component](https://reactjs.org/docs/react-component.html)|Components, Lifecycles|React|
+|[createReducer](https://redux-toolkit.js.org/api/createReducer)|Redux|Redux Toolkit|
 
 &nbsp;&nbsp;&nbsp;
 
