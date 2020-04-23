@@ -43,6 +43,7 @@
 |[React.Component](https://reactjs.org/docs/react-component.html)|Components, Lifecycles|React|
 |[createReducer](https://redux-toolkit.js.org/api/createReducer)|Redux|Redux Toolkit|
 |[createAsyncThunk](https://redux-toolkit.js.org/api/createAsyncThunk)|Redux|Redux Thunk|
+|[Pitfalls](https://immerjs.github.io/immer/docs/pitfalls)|Immer|Immer|
 
 &nbsp;&nbsp;&nbsp;
 
