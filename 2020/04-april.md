@@ -16,6 +16,7 @@
 |Course|[Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)|MobX|Egghead|
 |Course|[Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)|Data Structures|Egghead|
 |Course|[Immutable JavaScript Data Structures with Immer](https://egghead.io/courses/immutable-javascript-data-structures-with-immer)|Immer|Egghead|
+|Course|[Advanced JavaScript Foundations](https://egghead.io/courses/advanced-javascript-foundations)|JavaScript|Egghead|
 |Course|[Construct Sturdy UIs with XState](https://egghead.io/courses/construct-sturdy-uis-with-xstate)|XState|Egghead|
 |Doc|[Normalizing State Shape](https://redux.js.org/recipes/structuring-reducers/normalizing-state-shape/)|Redux|Redux|
 |Doc|[Render Props](https://reactjs.org/docs/render-props.html)|React|React|
