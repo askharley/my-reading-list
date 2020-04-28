@@ -8,7 +8,6 @@
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
 |Video|[Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
 |Video|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
-|Course|[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
 |Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
 |Course|[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)|React, Redux|Egghead|
 |Course|[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)|JavaScript, Functional Programming|Egghead|
@@ -80,6 +79,7 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Introduction to State Machines Using XState](https://egghead.io/courses/introduction-to-state-machines-using-xstate)|XState|Egghead|
+[Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
 
 ## Playlists
 | Title | Subjects | Source |
