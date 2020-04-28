@@ -96,3 +96,13 @@
 ## Repos
 | Title | Author |
 |-------|--------|
+|[javascript](https://github.com/airbnb/javascript)|[airbnb](https://github.com/airbnb)|
+|[immer](https://github.com/immerjs/immer)|[immerjs](https://github.com/immerjs)|
+|[mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)|[MostlyAdequate](https://github.com/MostlyAdequate)|
+|[code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook)|[microsoft](https://github.com/microsoft)|
+|[react-hook-form](https://github.com/react-hook-form/react-hook-form)|[react-hook-form](https://github.com/react-hook-form)|
+|[yup](https://github.com/jquense/yup)|[jquense](https://github.com/jquense)|
+|[react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc)|[clauderic](https://github.com/clauderic)|
+|[use-sound](https://github.com/joshwcomeau/use-sound)|[joshwcomeau](https://github.com/joshwcomeau)|
+|[redaxious](https://github.com/developit/redaxios)|[developit](https://github.com/developit)|
+|[flight_survey](https://github.com/MarcinusX/flight_survey)|[MarcinusX](https://github.com/MarcinusX)|
