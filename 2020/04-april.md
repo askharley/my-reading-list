@@ -45,10 +45,6 @@
 
 &nbsp;&nbsp;&nbsp;
 
-## Questions
-| Title | Subjects | Source |
-|-------|---------|--------|
-
 &nbsp;&nbsp;&nbsp;
 
 ## Courses
@@ -56,16 +52,6 @@
 |-------|---------|--------|
 |[Introduction to State Machines Using XState](https://egghead.io/courses/introduction-to-state-machines-using-xstate)|XState|Egghead|
 [Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015)|ES6|Egghead|
-
-## Playlists
-| Title | Subjects | Source |
-|-------|---------|--------|
-
-&nbsp;&nbsp;&nbsp;
-
-## Podcasts
-| Title | Subjects | Source |
-|-------|---------|--------|
 
 &nbsp;&nbsp;&nbsp;
 
