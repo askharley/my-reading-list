@@ -28,7 +28,7 @@
 
 | Title | Subjects | Source |
 |-------|---------|--------|
-
+|[React State Management in 2020](https://medium.com/better-programming/react-state-management-in-2020-719d10c816bf)|React, State Management|Medium|
 
 &nbsp;&nbsp;&nbsp;
 
