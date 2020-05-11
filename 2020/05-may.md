@@ -1,6 +1,7 @@
 ## Queue
 | Type | Title | Subjects | Source |
 |------|-------|----------|--------|
+|Article|[React Hooks, the rebirth of State Management and beyond.](https://tannerlinsley.com/blog/react-hooks-the-rebirth-of-state-management)|React Hooks, State Management|Tanner Linsley|
 |Article|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
 |Article|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
 |Article|[Understanding Error Boundaries in React](https://blog.bitsrc.io/understanding-error-boundaries-in-react-e58f15ae1f38)|React, Error Boundaries|Medium|
