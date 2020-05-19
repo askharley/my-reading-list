@@ -43,6 +43,8 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Why I no longer use Redux with React](https://www.youtube.com/watch?v=pUlwhe-kmog)|Redux, React|Ben Awad|
+|[Deno is Coming](https://www.youtube.com/watch?v=P6cInhvnX9E)|Deno|Ben Awad|
+|[Learn Node.js Before Deno](https://www.youtube.com/watch?v=bZjGSNPCXdU)|Deno|Ben Awad|
 
 
 &nbsp;&nbsp;&nbsp;
