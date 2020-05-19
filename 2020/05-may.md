@@ -56,6 +56,7 @@
 ## Courses
 | Title | Subjects | Source |
 |-------|---------|--------|
+|[Construct Sturdy UIs with XState](https://egghead.io/courses/construct-sturdy-uis-with-xstate)|XState|Egghead|
 
 
 ## Playlists
