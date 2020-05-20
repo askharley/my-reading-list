@@ -31,6 +31,7 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[React State Management in 2020](https://medium.com/better-programming/react-state-management-in-2020-719d10c816bf)|React, State Management|Medium|
+|[More Easy React Tricks We Should Know](https://medium.com/swlh/more-easy-react-tricks-we-should-know-f1aed585ca25)|React|Medium|
 
 &nbsp;&nbsp;&nbsp;
 
