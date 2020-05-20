@@ -7,6 +7,8 @@
 |Article|[Understanding Error Boundaries in React](https://blog.bitsrc.io/understanding-error-boundaries-in-react-e58f15ae1f38)|React, Error Boundaries|Medium|
 |Article|[How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)|DDD|AltKom|
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
+|Article|[JavaScript Fatigue is Back](https://dev.to/alexandrudanpop/deno-recoil-blitz-js-javascript-fatigue-is-back-4f3d)|Deno, Recoil|dev.to|
+|Article|[Understanding performance problems in React](https://dev.to/alexandrudanpop/understanding-performance-problems-in-react-4o4c)|React|dev.to|
 |Video|[Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
 |Video|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
 |Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
