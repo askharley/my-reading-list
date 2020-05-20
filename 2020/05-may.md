@@ -35,7 +35,7 @@
 ## Docs
 | Title | Subjects | Source |
 |-------|----------|--------|
-
+|[Invoking Services](https://xstate.js.org/docs/guides/communication.html#the-invoke-property)|XState|XState|
 
 &nbsp;&nbsp;&nbsp;
 
