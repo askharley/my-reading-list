@@ -52,6 +52,7 @@
 ## Questions
 | Title | Subjects | Source |
 |-------|---------|--------|
+|[What is the difference between Redux and XState?](https://stackoverflow.com/questions/54482695/what-is-an-actual-difference-between-redux-and-a-state-machine-e-g-xstate)|XState, Redux|Stack Overflow|
 
 &nbsp;&nbsp;&nbsp;
 
