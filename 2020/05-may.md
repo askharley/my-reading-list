@@ -10,6 +10,7 @@
 |Article|[JavaScript Fatigue is Back](https://dev.to/alexandrudanpop/deno-recoil-blitz-js-javascript-fatigue-is-back-4f3d)|Deno, Recoil|dev.to|
 |Article|[Understanding performance problems in React](https://dev.to/alexandrudanpop/understanding-performance-problems-in-react-4o4c)|React|dev.to|
 |Article|[JavaScript: What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)|JavaScript, Callback|CodeBurst|
+|Article|[Announcing Flutter 1.17](https://medium.com/flutter/announcing-flutter-1-17-4182d8af7f8e)|Flutter|Medium|
 |Video|[Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
 |Video|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
 |Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
