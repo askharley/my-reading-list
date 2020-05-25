@@ -7,6 +7,7 @@
 |Article|[Understanding Error Boundaries in React](https://blog.bitsrc.io/understanding-error-boundaries-in-react-e58f15ae1f38)|React, Error Boundaries|Medium|
 |Article|[How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)|DDD|AltKom|
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
+|Article|[Five common mistakes writing react components (with hooks) in 2020](https://dev.to/lowe1111/five-common-mistakes-writing-react-components-with-hooks-in-2020-2ac3)|React|dev.to|
 |Article|[Understanding performance problems in React](https://dev.to/alexandrudanpop/understanding-performance-problems-in-react-4o4c)|React|dev.to|
 |Article|[JavaScript: What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)|JavaScript, Callback|CodeBurst|
 |Article|[Announcing Flutter 1.17](https://medium.com/flutter/announcing-flutter-1-17-4182d8af7f8e)|Flutter|Medium|
