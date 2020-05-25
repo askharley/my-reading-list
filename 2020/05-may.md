@@ -60,6 +60,7 @@
 |-------|---------|--------|
 |[What is the difference between Redux and XState?](https://stackoverflow.com/questions/54482695/what-is-an-actual-difference-between-redux-and-a-state-machine-e-g-xstate)|XState, Redux|Stack Overflow|
 |[How to upload image from react to ASP Net Core Web API](https://stackoverflow.com/questions/55205135/how-to-upload-image-from-react-to-asp-net-core-web-api)|File Upload|Stack Overflow|
+|[AddTransient, AddScoped and AddSingleton Services Differences](https://stackoverflow.com/questions/38138100/addtransient-addscoped-and-addsingleton-services-differences)|Dependency Injection|Stack Overflow|
 
 &nbsp;&nbsp;&nbsp;
 
