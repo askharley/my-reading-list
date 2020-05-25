@@ -7,7 +7,6 @@
 |Article|[Understanding Error Boundaries in React](https://blog.bitsrc.io/understanding-error-boundaries-in-react-e58f15ae1f38)|React, Error Boundaries|Medium|
 |Article|[How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)|DDD|AltKom|
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
-|Article|[JavaScript Fatigue is Back](https://dev.to/alexandrudanpop/deno-recoil-blitz-js-javascript-fatigue-is-back-4f3d)|Deno, Recoil|dev.to|
 |Article|[Understanding performance problems in React](https://dev.to/alexandrudanpop/understanding-performance-problems-in-react-4o4c)|React|dev.to|
 |Article|[JavaScript: What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)|JavaScript, Callback|CodeBurst|
 |Article|[Announcing Flutter 1.17](https://medium.com/flutter/announcing-flutter-1-17-4182d8af7f8e)|Flutter|Medium|
@@ -34,7 +33,8 @@
 |-------|---------|--------|
 |[React State Management in 2020](https://medium.com/better-programming/react-state-management-in-2020-719d10c816bf)|React, State Management|Medium|
 |[More Easy React Tricks We Should Know](https://medium.com/swlh/more-easy-react-tricks-we-should-know-f1aed585ca25)|React|Medium|
-|[When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)|React, Hooks|Kent C Dodds
+|[When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)|React, Hooks|Kent C Dodds|
+[JavaScript Fatigue is Back](https://dev.to/alexandrudanpop/deno-recoil-blitz-js-javascript-fatigue-is-back-4f3d)|Deno, Recoil|dev.to|
 
 &nbsp;&nbsp;&nbsp;
 
