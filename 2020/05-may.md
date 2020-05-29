@@ -89,4 +89,6 @@
 ## Repos
 | Title | Author |
 |-------|--------|
-
+|[deno](https://github.com/denoland/deno)|[denoland](https://github.com/denoland)|
+|[recoil](https://github.com/facebookexperimental/Recoil)|[facebookexperimental](https://github.com/facebookexperimental/Recoil)|
+|[baseweb](https://github.com/uber/baseweb)|[uber](https://github.com/uber/baseweb)|
