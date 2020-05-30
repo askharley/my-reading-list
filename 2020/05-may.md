@@ -55,6 +55,7 @@
 |[Learn Node.js Before Deno](https://www.youtube.com/watch?v=bZjGSNPCXdU)|Deno|Ben Awad|
 |[How to add clean Retrying in .NET Core using Polly](https://www.youtube.com/watch?v=yXzn6HxTufM)|Polly|Nick Chapsas|
 |[How to effectively use Redis Cache in .NET Core](https://www.youtube.com/watch?v=jwek4w6als4)|Redis|Nick Chapsas|
+|[The Modern Web](https://www.youtube.com/watch?v=CQaDl9Fu0W0)|Web Development|Ben Awad|
 
 
 &nbsp;&nbsp;&nbsp;
