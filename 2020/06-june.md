@@ -45,7 +45,7 @@
 ## Videos
 | Title | Subjects | Source |
 |-------|---------|--------|
-
+|[Extend Swagger Documentation](https://www.youtube.com/watch?v=BGASedyh16I)|Swagger|Nick Chapsas|
 
 &nbsp;&nbsp;&nbsp;
 
