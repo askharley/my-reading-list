@@ -37,10 +37,10 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Docs
-| Title | Subjects |
-|-------|----------|
-|[Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows)|User Secrets|
-|[Use Azure Cache for Redis with a .NET Framework application](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache)|Azure Redis, Cache Aside|
+| Title | Subjects | Source |
+|-------|----------|--------|
+|[Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows)|User Secrets|Microsoft Docs|
+|[Use Azure Cache for Redis with a .NET Framework application](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache)|Azure Redis, Cache Aside|Microsoft Docs|
 
 &nbsp;&nbsp;&nbsp;
 
