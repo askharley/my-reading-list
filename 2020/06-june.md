@@ -52,9 +52,9 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Questions
-| Title | Subjects | Source |
-|-------|---------|--------|
-
+| Title | Subjects |
+|-------|---------|
+|[How can I set CORS in Azure BLOB Storage in Portal?](https://stackoverflow.com/questions/28894466/how-can-i-set-cors-in-azure-blob-storage-in-portal/41351674#41351674)|Azure Storage|
 
 &nbsp;&nbsp;&nbsp;
 
