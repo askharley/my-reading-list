@@ -48,6 +48,7 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Extend Swagger Documentation](https://www.youtube.com/watch?v=BGASedyh16I)|Swagger|Nick Chapsas|
+|[Integrate ASP.NET Core with Azure Key Vault](https://www.youtube.com/watch?v=k2VYcYS3EIA)|Azure KeyVault|CloudSkills|
 
 &nbsp;&nbsp;&nbsp;
 
