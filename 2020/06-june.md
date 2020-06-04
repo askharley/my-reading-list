@@ -49,6 +49,7 @@
 |-------|---------|--------|
 |[Extend Swagger Documentation](https://www.youtube.com/watch?v=BGASedyh16I)|Swagger|Nick Chapsas|
 |[Integrate ASP.NET Core with Azure Key Vault](https://www.youtube.com/watch?v=k2VYcYS3EIA)|Azure KeyVault|CloudSkills|
+|[Hired's 2020 State of Software Engineers Review](https://www.youtube.com/watch?v=WXCCykDL5y0)|Reports|Sean Allen|
 
 &nbsp;&nbsp;&nbsp;
 
