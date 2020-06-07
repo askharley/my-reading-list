@@ -33,7 +33,8 @@
 
 | Title | Subjects | Source |
 |-------|---------|--------|
-|[ache-Aside Pattern in .NET Core](http://www.kamilgrzybek.com/design/cache-aside-pattern-in-net-core/)|Cache Aside Pattern|Kamil Grzybek|
+|[Cache-Aside Pattern in .NET Core](http://www.kamilgrzybek.com/design/cache-aside-pattern-in-net-core/)|Cache Aside Pattern|Kamil Grzybek|
+
 &nbsp;&nbsp;&nbsp;
 
 ## Docs
