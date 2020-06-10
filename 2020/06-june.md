@@ -61,6 +61,7 @@
 | Title | Subjects |
 |-------|---------|
 |[How can I set CORS in Azure BLOB Storage in Portal?](https://stackoverflow.com/questions/28894466/how-can-i-set-cors-in-azure-blob-storage-in-portal/41351674#41351674)|Azure Storage|
+|[How to use environment variables in React app hosted in Azure](https://stackoverflow.com/questions/51313330/how-to-use-environment-variables-in-react-app-hosted-in-azure)|React, Azure|
 
 &nbsp;&nbsp;&nbsp;
 
