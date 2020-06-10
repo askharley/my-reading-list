@@ -67,6 +67,7 @@
 ## Courses
 | Title | Subjects | Source |
 |-------|---------|--------|
+|[Getting Started with Recoil in React](https://egghead.io/playlists/getting-started-with-recoil-in-react-1fca)|Recoil|Egghead|
 
 
 ## Playlists
