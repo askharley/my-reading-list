@@ -51,7 +51,7 @@
 |[Extend Swagger Documentation](https://www.youtube.com/watch?v=BGASedyh16I)|Swagger|Nick Chapsas|
 |[Integrate ASP.NET Core with Azure Key Vault](https://www.youtube.com/watch?v=k2VYcYS3EIA)|Azure KeyVault|CloudSkills|
 |[Hired's 2020 State of Software Engineers Review](https://www.youtube.com/watch?v=WXCCykDL5y0)|Reports|Sean Allen|
-|[Angular.js Most Dreaded Framework of 2020 | StackOverflow Survey](https://www.youtube.com/watch?v=Hfr-e13av5I)|Survey|Ben Awad|
+|[Angular.js Most Dreaded Framework of 2020](https://www.youtube.com/watch?v=Hfr-e13av5I)|Survey|Ben Awad|
 |[Recoil: State Management for Today's React - Dave McCabe](https://www.youtube.com/watch?v=_ISAA_Jt9kI)|Recoil|ReactEurope|
 
 &nbsp;&nbsp;&nbsp;
