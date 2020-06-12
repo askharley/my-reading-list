@@ -77,6 +77,7 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Tanner Linsley Separates UI State And Server State](https://open.spotify.com/episode/599lPogb1psBl8seBGO2jc?si=TiHv5wm6Qhagw8C1s9w4Rw)|React, State Management|Chats with Kent|
+
 &nbsp;&nbsp;&nbsp;
 
 ## Repos
