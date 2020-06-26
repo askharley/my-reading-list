@@ -54,6 +54,7 @@
 |[Hired's 2020 State of Software Engineers Review](https://www.youtube.com/watch?v=WXCCykDL5y0)|Reports|Sean Allen|
 |[Angular.js Most Dreaded Framework of 2020](https://www.youtube.com/watch?v=Hfr-e13av5I)|Survey|Ben Awad|
 |[Recoil: State Management for Today's React - Dave McCabe](https://www.youtube.com/watch?v=_ISAA_Jt9kI)|Recoil|ReactEurope|
+|[Software Engineering "Best Practises"](https://www.youtube.com/watch?v=gc8mDZwUlfo)|Best Practises|Ben Awad|
 
 &nbsp;&nbsp;&nbsp;
 
