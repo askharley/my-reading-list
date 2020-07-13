@@ -51,6 +51,7 @@
 ## Questions
 | Title | Subjects |
 |-------|---------|
+|[Should I use === or == equality comparison operator in JavaScript?](https://bytearcher.com/articles/equality-comparison-operator-javascript/#:~:text=The%20triple%20equals%20operator%20(%20%3D%3D%3D,result%20is%20false%20as%20expected.)|JavaScript, Comparisons|
 
 &nbsp;&nbsp;&nbsp;
 
