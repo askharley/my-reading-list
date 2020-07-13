@@ -53,4 +53,10 @@
 ## Repos
 | Title | Author |
 |-------|--------|
-
+|[loadable-components](https://github.com/gregberge/loadable-components)|[Greg Berge](https://github.com/gregberge)|
+|[react-pdf](https://github.com/diegomura/react-pdf)|[diegomura](https://github.com/diegomura)|
+|[react-testing-library](https://github.com/testing-library/react-testing-library)|[testing-library](https://github.com/testing-library)|
+|[react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library)|[testing-library](https://github.com/testing-library)|
+|[predict-input-value](https://github.com/wojtekmaj/predict-input-value)|[wojtekmaj](https://github.com/wojtekmaj)|
+|[auth0-react-samples](https://github.com/auth0-samples/auth0-react-samples)|[Auth0 Samples](https://github.com/auth0-samples)|
+|[m-r](https://github.com/gregoryyoung/m-r)|[Greg Young](https://github.com/gregoryyoung)|
