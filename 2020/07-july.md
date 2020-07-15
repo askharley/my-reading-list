@@ -45,8 +45,10 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Videos
-| Title | Subjects | Source |
-|-------|---------|--------|
+| Title | Subjects |
+|-------|---------|
+|[Angular 8 - What's New? What changed?](https://www.youtube.com/watch?v=5_IC_ZJrVMg)|Angular|
+|[Angular 9 - What's New? What changed?](https://www.youtube.com/watch?v=TcdhAxDWWxM)|Angular|
 
 &nbsp;&nbsp;&nbsp;
 
