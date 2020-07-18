@@ -51,6 +51,7 @@
 |[Angular 9 - What's New? What changed?](https://www.youtube.com/watch?v=TcdhAxDWWxM)|Angular|
 |[Angular NgRx Redux Quick Start Tutorial](https://www.youtube.com/watch?v=f97ICOaekNU)|Angular, NgRx|
 |[Why React Native is NOT garbage.](https://www.youtube.com/watch?v=ptTfQvbu9Ko)|React Native|
+|[Angular.js Got Me in Trouble](https://www.youtube.com/watch?v=Ap1CzrIBIVw)|Angular|
 
 &nbsp;&nbsp;&nbsp;
 
