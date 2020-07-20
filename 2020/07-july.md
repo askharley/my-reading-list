@@ -33,7 +33,7 @@
 
 | Title | Subjects | Source |
 |-------|---------|--------|
-|Building a Real-Time Chat App with React and Firebase|React, Firebase|[css-tricks](https://css-tricks.com/building-a-real-time-chat-app-with-react-and-firebase/)|
+|[Building a Real-Time Chat App with React and Firebase](Building a Real-Time Chat App with React and Firebase)|React, Firebase|css-tricks|
 
 &nbsp;&nbsp;&nbsp;
 
