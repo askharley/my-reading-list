@@ -8,9 +8,7 @@
 |Article|[How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)|DDD|AltKom|
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
 |Article|[Five common mistakes writing react components (with hooks) in 2020](https://dev.to/lowe1111/five-common-mistakes-writing-react-components-with-hooks-in-2020-2ac3)|React|dev.to|
-|Article|[Understanding performance problems in React](https://dev.to/alexandrudanpop/understanding-performance-problems-in-react-4o4c)|React|dev.to|
 |Article|[JavaScript: What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)|JavaScript, Callback|CodeBurst|
-|Article|[Announcing Flutter 1.17](https://medium.com/flutter/announcing-flutter-1-17-4182d8af7f8e)|Flutter|Medium|
 |Article|[How I Teach](https://kentcdodds.com/blog/how-i-teach/?ck_subscriber_id=762124066)|Teaching|Kent C. Dodds|
 |Video|[Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
 |Video|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
@@ -34,6 +32,9 @@
 | Title | Subjects | Source |
 |-------|---------|--------|
 |[Building a Real-Time Chat App with React and Firebase](https://css-tricks.com/building-a-real-time-chat-app-with-react-and-firebase/)|React, Firebase|css-tricks|
+|[Understanding performance problems in React](https://dev.to/alexandrudanpop/understanding-performance-problems-in-react-4o4c)|React|dev.to|
+|[Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)|Modern Web Development|Tom MacWright|
+|[Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)|General Coding|Coding Horror|
 
 &nbsp;&nbsp;&nbsp;
 
@@ -42,6 +43,7 @@
 |-------|----------|
 |[null](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null)|JavaScript|
 |[undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)|JavaScript|
+|[Time To Interactive](https://web.dev/interactive/)|Lighthouse|web.dev|
 
 &nbsp;&nbsp;&nbsp;
 
@@ -54,6 +56,8 @@
 |[Why React Native is NOT garbage.](https://www.youtube.com/watch?v=ptTfQvbu9Ko)|React Native|
 |[Angular.js Got Me in Trouble](https://www.youtube.com/watch?v=Ap1CzrIBIVw)|Angular|
 |[What GPT-3 Means for Developers](https://www.youtube.com/watch?v=Yg3C38P5EkA)|Ben Awad|GPT-3|
+|[Flutter vs React Native - Will Flutter Kill React Native?](https://www.youtube.com/watch?v=uxZZzmeCoLE)|Flutter, React Native|Programming with Mosh|
+|[The 5 books that (I think) every programmer should read](https://www.youtube.com/watch?v=Yd79bCrht0M)|Books|Nick Chapsas|
 
 &nbsp;&nbsp;&nbsp;
 
