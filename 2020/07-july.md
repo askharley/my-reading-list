@@ -53,6 +53,7 @@
 |[Angular NgRx Redux Quick Start Tutorial](https://www.youtube.com/watch?v=f97ICOaekNU)|Angular, NgRx|
 |[Why React Native is NOT garbage.](https://www.youtube.com/watch?v=ptTfQvbu9Ko)|React Native|
 |[Angular.js Got Me in Trouble](https://www.youtube.com/watch?v=Ap1CzrIBIVw)|Angular|
+|[What GPT-3 Means for Developers](https://www.youtube.com/watch?v=Yg3C38P5EkA)|Ben Awad|GPT-3|
 
 &nbsp;&nbsp;&nbsp;
 
