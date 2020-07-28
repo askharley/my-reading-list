@@ -60,6 +60,7 @@
 |[What GPT-3 Means for Developers](https://www.youtube.com/watch?v=Yg3C38P5EkA)|Ben Awad|GPT-3|
 |[Flutter vs React Native - Will Flutter Kill React Native?](https://www.youtube.com/watch?v=uxZZzmeCoLE)|Flutter, React Native|Programming with Mosh|
 |[The 5 books that (I think) every programmer should read](https://www.youtube.com/watch?v=Yd79bCrht0M)|Books|Nick Chapsas|
+|[Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI)|Recoil|ReactEurope|
 
 &nbsp;&nbsp;&nbsp;
 
