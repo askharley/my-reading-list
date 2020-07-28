@@ -63,6 +63,7 @@
 |[Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI)|Recoil|ReactEurope|
 |[I'm never using Recoil.js](https://www.youtube.com/watch?v=XEYiYpASG2A)|Recoil|Harry Wolff|
 |[Redux or Context in React](https://www.youtube.com/watch?v=5gUHfe-ETuo)|Redux, Context|Ben Awad|
+|[Recoil.js in 10 Minutes](https://www.youtube.com/watch?v=BchtCWxs7sA)|Recoil|Bytesized|
 
 &nbsp;&nbsp;&nbsp;
 
