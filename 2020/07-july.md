@@ -61,6 +61,8 @@
 |[Flutter vs React Native - Will Flutter Kill React Native?](https://www.youtube.com/watch?v=uxZZzmeCoLE)|Flutter, React Native|Programming with Mosh|
 |[The 5 books that (I think) every programmer should read](https://www.youtube.com/watch?v=Yd79bCrht0M)|Books|Nick Chapsas|
 |[Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI)|Recoil|ReactEurope|
+|[I'm never using Recoil.js](https://www.youtube.com/watch?v=XEYiYpASG2A)|Recoil|Harry Wolff|
+|[Redux or Context in React](https://www.youtube.com/watch?v=5gUHfe-ETuo)|Redux, Context|Ben Awad|
 
 &nbsp;&nbsp;&nbsp;
 
