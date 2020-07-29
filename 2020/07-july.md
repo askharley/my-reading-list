@@ -9,7 +9,6 @@
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
 |Article|[Five common mistakes writing react components (with hooks) in 2020](https://dev.to/lowe1111/five-common-mistakes-writing-react-components-with-hooks-in-2020-2ac3)|React|dev.to|
 |Article|[JavaScript: What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)|JavaScript, Callback|CodeBurst|
-|Article|[How I Teach](https://kentcdodds.com/blog/how-i-teach/?ck_subscriber_id=762124066)|Teaching|Kent C. Dodds|
 |Article|[Colocation](https://kentcdodds.com/blog/colocation)|Colocation|Kent C. Dodds|
 |Article|[Prop Drilling](https://kentcdodds.com/blog/prop-drilling)|State Management|Kent C. Dodds|
 
@@ -40,6 +39,7 @@
 |[Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)|Modern Web Development|Tom MacWright|
 |[Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)|General Coding|Coding Horror|
 |[Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)|Ternary Operator|Kent C. Dodds|
+|[How I Teach](https://kentcdodds.com/blog/how-i-teach/?ck_subscriber_id=762124066)|Teaching|Kent C. Dodds|
 
 &nbsp;&nbsp;&nbsp;
 
