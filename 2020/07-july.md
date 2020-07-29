@@ -12,7 +12,7 @@
 |Article|[How I Teach](https://kentcdodds.com/blog/how-i-teach/?ck_subscriber_id=762124066)|Teaching|Kent C. Dodds|
 |Article|[Colocation](https://kentcdodds.com/blog/colocation)|Colocation|Kent C. Dodds|
 |Article|[Prop Drilling](https://kentcdodds.com/blog/prop-drilling)|State Management|Kent C. Dodds|
-|Article|[Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)|Ternary Operator|Kent C. Dodds|
+
 |Video|[Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)|React, Formik|React Alicante|
 |Video|[The State of React - Jared Palmer](https://www.youtube.com/watch?v=u_0ZMiQZr0k)|React|React Europe|
 |Course|[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)|React|Egghead|
@@ -39,6 +39,7 @@
 |[Understanding performance problems in React](https://dev.to/alexandrudanpop/understanding-performance-problems-in-react-4o4c)|React|dev.to|
 |[Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)|Modern Web Development|Tom MacWright|
 |[Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)|General Coding|Coding Horror|
+|[Use ternaries rather than && in JSX](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)|Ternary Operator|Kent C. Dodds|
 
 &nbsp;&nbsp;&nbsp;
 
