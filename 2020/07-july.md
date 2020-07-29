@@ -66,6 +66,7 @@
 |[I'm never using Recoil.js](https://www.youtube.com/watch?v=XEYiYpASG2A)|Recoil|Harry Wolff|
 |[Redux or Context in React](https://www.youtube.com/watch?v=5gUHfe-ETuo)|Redux, Context|Ben Awad|
 |[Recoil.js in 10 Minutes](https://www.youtube.com/watch?v=BchtCWxs7sA)|Recoil|Bytesized|
+|[Sharing Data between Components in Angular](https://www.youtube.com/watch?v=I317BhehZKM)|Angular, Sharing Data|Fireship|
 
 &nbsp;&nbsp;&nbsp;
 
