@@ -67,6 +67,7 @@
 |[Redux or Context in React](https://www.youtube.com/watch?v=5gUHfe-ETuo)|Redux, Context|Ben Awad|
 |[Recoil.js in 10 Minutes](https://www.youtube.com/watch?v=BchtCWxs7sA)|Recoil|Bytesized|
 |[Sharing Data between Components in Angular](https://www.youtube.com/watch?v=I317BhehZKM)|Angular, Sharing Data|Fireship|
+|[Why is MVC? Simple Explanation](https://www.youtube.com/watch?v=pCvZtjoRq1I)|MVC|Traversy Media|
 
 &nbsp;&nbsp;&nbsp;
 
