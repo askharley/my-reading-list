@@ -36,6 +36,7 @@
 |[React Hook Pitfalls](https://www.youtube.com/watch?v=VIRcX2X7EUk)|React Hooks|React Rally|
 |[Chat App Data Structure In Firebase Firestore](https://www.c-sharpcorner.com/article/chat-app-data-structure-in-firebase-firestore/)|Firestore|C# Corner|
 |[Rethinking Atomic React](https://cheesecakelabs.com/blog/rethinking-atomic-design-react-projects/)|Atomic Design, React|Cheesecake Labs|
+|[How to Avoid Array Mutation](https://dev.to/helderburato/how-to-avoid-array-mutation-4bpa)|JS, Arrays|dev.to|
 
 &nbsp;&nbsp;&nbsp;
 
