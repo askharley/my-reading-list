@@ -47,6 +47,9 @@
 |-------|---------|
 |[programming memes](https://www.youtube.com/watch?v=6i-cagHpBcs)|Memes|
 |[Trying Vue.js for the First Time](https://www.youtube.com/watch?v=3OhLUYNw0TI)|Vue|
+|[The Legend of jQuery in 100 Seconds](https://www.youtube.com/watch?v=UU-GebNqdbg)|jQuery|
+|[React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)|React|
+|[Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM)|Angular|
 
 
 &nbsp;&nbsp;&nbsp;
