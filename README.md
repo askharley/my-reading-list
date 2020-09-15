@@ -6,3 +6,4 @@
 - [June](https://github.com/askharley/my-content-list/blob/master/2020/06-june.md)
 - [July](https://github.com/askharley/my-content-list/blob/master/2020/07-july.md)
 - [August](https://github.com/askharley/my-content-list/blob/master/2020/08-august.md)
+- [September](https://github.com/askharley/my-content-list/blob/master/2020/09-september.md)
