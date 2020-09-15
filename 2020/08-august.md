@@ -9,24 +9,10 @@
 
 &nbsp;&nbsp;&nbsp;
 
-## Docs
-| Title | Subjects |
-|-------|----------|
-
-&nbsp;&nbsp;&nbsp;
-
 ## Videos
 | Title | Subjects |
 |-------|---------|
 |[Host Multiple Apps or Websites on Firebase](https://www.youtube.com/watch?v=NrkFBmBFA6k)|Firebase|
-
-
-&nbsp;&nbsp;&nbsp;
-
-## Questions
-| Title | Subjects |
-|-------|---------|
-
 
 &nbsp;&nbsp;&nbsp;
 
@@ -35,13 +21,6 @@
 |-------|---------|
 |[React Navigation for Native Mobile Applications](https://egghead.io/courses/react-navigation-for-native-mobile-applications)|react-navigation, React Native|
 |[Just Enouugh Functional Programming in JavaScript](https://egghead.io/courses/just-enough-functional-programming-in-javascript)|Functional JavaScript|
-
-
-&nbsp;&nbsp;&nbsp;
-
-## Podcasts
-| Title | Subjects | Source |
-|-------|---------|--------|
 
 
 &nbsp;&nbsp;&nbsp;
