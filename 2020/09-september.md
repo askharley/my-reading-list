@@ -51,6 +51,8 @@
 |[React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)|React|
 |[Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM)|Angular|
 
+&nbsp;&nbsp;&nbsp;
+
 ## Livestreams
 | Title | Subjects |
 |-------|---------|
