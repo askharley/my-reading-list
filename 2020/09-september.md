@@ -51,6 +51,13 @@
 |[React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)|React|
 |[Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM)|Angular|
 
+## Livestreams
+| Title | Subjects |
+|-------|---------|
+|[Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0)|React|
+|[Livestream with Kent: AMA about React & Epic React](https://www.youtube.com/watch?v=gl4X59r6FnE)|Epic React|
+|[Livestream with Kent: Tour of EpicReact.Dev](https://www.youtube.com/watch?v=U-DFEZXbnkE)|Epic React|
+
 
 &nbsp;&nbsp;&nbsp;
 
