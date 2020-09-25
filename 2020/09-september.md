@@ -52,6 +52,7 @@
 |[Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM)|Fireship|Angular|
 |[Should You Stop Using React](https://www.youtube.com/watch?v=PJ0QSJpJn2U)|Ben Awad|React|
 |[Google Knows Best](https://www.youtube.com/watch?v=KfU2mPwVE8E)|Google Knows Best|Lighthouse|
+|[React Is King? My Reaction To Ben Awad On Vue.js!](https://www.youtube.com/watch?v=YXvZZh6ctvE)|Program with Erik|Vue"
 
 &nbsp;&nbsp;&nbsp;
 
