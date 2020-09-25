@@ -45,11 +45,12 @@
 ## Videos
 | Title | Subjects |
 |-------|---------|
-|[programming memes](https://www.youtube.com/watch?v=6i-cagHpBcs)|Memes|
-|[Trying Vue.js for the First Time](https://www.youtube.com/watch?v=3OhLUYNw0TI)|Vue|
-|[The Legend of jQuery in 100 Seconds](https://www.youtube.com/watch?v=UU-GebNqdbg)|jQuery|
-|[React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)|React|
-|[Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM)|Angular|
+|[programming memes](https://www.youtube.com/watch?v=6i-cagHpBcs)|Ben Awad|Memes|
+|[Trying Vue.js for the First Time](https://www.youtube.com/watch?v=3OhLUYNw0TI)|Ben Awad|Vue|
+|[The Legend of jQuery in 100 Seconds](https://www.youtube.com/watch?v=UU-GebNqdbg)|Fireship|jQuery|
+|[React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)|Fireship|React|
+|[Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM)|Fireship|Angular|
+|[Should You Stop Using React](https://www.youtube.com/watch?v=PJ0QSJpJn2U)|Ben Awad|React|
 
 &nbsp;&nbsp;&nbsp;
 
