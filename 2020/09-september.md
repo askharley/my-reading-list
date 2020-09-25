@@ -56,9 +56,10 @@
 ## Livestreams
 | Title | Subjects |
 |-------|---------|
-|[Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0)|React|
-|[Livestream with Kent: AMA about React & Epic React](https://www.youtube.com/watch?v=gl4X59r6FnE)|Epic React|
-|[Livestream with Kent: Tour of EpicReact.Dev](https://www.youtube.com/watch?v=U-DFEZXbnkE)|Epic React|
+|[Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0)|Kent C. Dodds|
+|[Livestream with Kent: AMA about React & Epic React](https://www.youtube.com/watch?v=gl4X59r6FnE)|Kent C. Dodds|
+|[Livestream with Kent: Tour of EpicReact.Dev](https://www.youtube.com/watch?v=U-DFEZXbnkE)|Kent C. Dodds|
+|[Livestream: Refactoring to react-query](https://www.youtube.com/watch?v=eEKn8UJfYgc)|Kent C. Dodds
 
 
 &nbsp;&nbsp;&nbsp;
