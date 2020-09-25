@@ -21,11 +21,3 @@
 |-------|---------|
 |[React Navigation for Native Mobile Applications](https://egghead.io/courses/react-navigation-for-native-mobile-applications)|react-navigation, React Native|
 |[Just Enouugh Functional Programming in JavaScript](https://egghead.io/courses/just-enough-functional-programming-in-javascript)|Functional JavaScript|
-
-
-&nbsp;&nbsp;&nbsp;
-
-## Repos
-| Title | Author |
-|-------|--------|
-
