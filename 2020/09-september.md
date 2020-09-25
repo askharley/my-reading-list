@@ -44,7 +44,7 @@
 
 ## Videos
 | Title | Channel | Subjects |
-|-------|---------|
+|-------|---------| ---------|
 |[programming memes](https://www.youtube.com/watch?v=6i-cagHpBcs)|Ben Awad|Memes|
 |[Trying Vue.js for the First Time](https://www.youtube.com/watch?v=3OhLUYNw0TI)|Ben Awad|Vue|
 |[The Legend of jQuery in 100 Seconds](https://www.youtube.com/watch?v=UU-GebNqdbg)|Fireship|jQuery|
