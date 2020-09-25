@@ -43,7 +43,7 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Videos
-| Title | Subjects |
+| Title | Channel | Subjects |
 |-------|---------|
 |[programming memes](https://www.youtube.com/watch?v=6i-cagHpBcs)|Ben Awad|Memes|
 |[Trying Vue.js for the First Time](https://www.youtube.com/watch?v=3OhLUYNw0TI)|Ben Awad|Vue|
@@ -51,6 +51,7 @@
 |[React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)|Fireship|React|
 |[Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM)|Fireship|Angular|
 |[Should You Stop Using React](https://www.youtube.com/watch?v=PJ0QSJpJn2U)|Ben Awad|React|
+|[Google Knows Best](https://www.youtube.com/watch?v=KfU2mPwVE8E)|Google Knows Best|Lighthouse|
 
 &nbsp;&nbsp;&nbsp;
 
