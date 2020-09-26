@@ -95,7 +95,7 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Repos
-| Title | Author |
-|-------|--------|
-
+| Title |
+|-------|
+|[react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)|
 
