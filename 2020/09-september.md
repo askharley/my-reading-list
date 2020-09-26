@@ -58,6 +58,7 @@
 |[Chatting With A Competitive Programmer And Facebook Software Engineer](https://www.youtube.com/watch?v=9ki1-xe6XzU)|Clément Mihailescu|Competitive Programming|
 |[Simply React - Kent C. Dodds](https://www.youtube.com/watch?v=5io81WLgXtg)|Bytesized|React, Component Composition|
 |[Kubernetes Explained in 100 Seconds](https://www.youtube.com/watch?v=PziYflu8cB8)|Fireship|Kubernetes|
+|[I built a chat app in 7 minutes with React & Firebase](https://www.youtube.com/watch?v=zQyrwxMPm88)|Fireship|React, Firebase|
 
 &nbsp;&nbsp;&nbsp;
 
