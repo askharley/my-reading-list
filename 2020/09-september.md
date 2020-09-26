@@ -54,6 +54,7 @@
 |[Google Knows Best](https://www.youtube.com/watch?v=KfU2mPwVE8E)|Google Knows Best|Lighthouse|
 |[React Is King? My Reaction To Ben Awad On Vue.js!](https://www.youtube.com/watch?v=YXvZZh6ctvE)|Program with Erik|Vue|
 |[Robert Herbst - Advanced Patterns](https://www.youtube.com/watch?v=GjkIxno8bik)|React Next|React|
+|[Is New Reddit Really That Slow?](https://www.youtube.com/watch?v=4jkSiIBDDZ8)|Ben Awad|Reddit|
 
 &nbsp;&nbsp;&nbsp;
 
