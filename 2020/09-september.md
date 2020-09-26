@@ -53,9 +53,10 @@
 |[Should You Stop Using React](https://www.youtube.com/watch?v=PJ0QSJpJn2U)|Ben Awad|React|
 |[Google Knows Best](https://www.youtube.com/watch?v=KfU2mPwVE8E)|Google Knows Best|Lighthouse|
 |[React Is King? My Reaction To Ben Awad On Vue.js!](https://www.youtube.com/watch?v=YXvZZh6ctvE)|Program with Erik|Vue|
-|[Robert Herbst - Advanced Patterns](https://www.youtube.com/watch?v=GjkIxno8bik)|React Next|React|
+|[Advanced Patterns - Robert Herbst](https://www.youtube.com/watch?v=GjkIxno8bik)|React Next|React|
 |[Is New Reddit Really That Slow?](https://www.youtube.com/watch?v=4jkSiIBDDZ8)|Ben Awad|Reddit|
 |[Chatting With A Competitive Programmer And Facebook Software Engineer](https://www.youtube.com/watch?v=9ki1-xe6XzU)|Clément Mihailescu|Competitive Programming|
+|[Simply React - Kent C. Dodds](https://www.youtube.com/watch?v=5io81WLgXtg)|Bytesized|React, Component Composition|
 
 &nbsp;&nbsp;&nbsp;
 
