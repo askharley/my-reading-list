@@ -55,6 +55,7 @@
 |[React Is King? My Reaction To Ben Awad On Vue.js!](https://www.youtube.com/watch?v=YXvZZh6ctvE)|Program with Erik|Vue|
 |[Robert Herbst - Advanced Patterns](https://www.youtube.com/watch?v=GjkIxno8bik)|React Next|React|
 |[Is New Reddit Really That Slow?](https://www.youtube.com/watch?v=4jkSiIBDDZ8)|Ben Awad|Reddit|
+|[Chatting With A Competitive Programmer And Facebook Software Engineer](https://www.youtube.com/watch?v=9ki1-xe6XzU)|Clément Mihailescu|Competitive Programming|
 
 &nbsp;&nbsp;&nbsp;
 
