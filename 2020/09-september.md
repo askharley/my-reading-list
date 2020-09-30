@@ -72,21 +72,6 @@
 |[Livestream with Kent: EpicReact.Dev Q&A](https://www.youtube.com/watch?v=3pVB-tzac5o)|Kent C. Dodds|
 |[EpicReact.Dev Launch Party 🚀](https://www.youtube.com/watch?v=70H7C5P1REY)|Kent C. Dodds|
 
-
-&nbsp;&nbsp;&nbsp;
-
-## Questions
-| Title | Subjects |
-|-------|---------|
-
-
-&nbsp;&nbsp;&nbsp;
-
-## Courses
-| Title | Subjects |
-|-------|---------|
-
-
 &nbsp;&nbsp;&nbsp;
 
 ## Podcasts
