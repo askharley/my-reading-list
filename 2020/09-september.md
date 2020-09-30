@@ -70,6 +70,7 @@
 |[Livestream with Kent: Tour of EpicReact.Dev](https://www.youtube.com/watch?v=U-DFEZXbnkE)|Kent C. Dodds|
 |[Livestream: Refactoring to react-query](https://www.youtube.com/watch?v=eEKn8UJfYgc)|Kent C. Dodds|
 |[Livestream with Kent: EpicReact.Dev Q&A](https://www.youtube.com/watch?v=3pVB-tzac5o)|Kent C. Dodds|
+|[EpicReact.Dev Launch Party 🚀](https://www.youtube.com/watch?v=70H7C5P1REY)|Kent C. Dodds|
 
 
 &nbsp;&nbsp;&nbsp;
