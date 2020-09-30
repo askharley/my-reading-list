@@ -92,7 +92,7 @@
 ## Podcasts
 | Title | Subjects | Source |
 |-------|---------|--------|
-
+|[Creating Open Source Libraries with Tanner Linsley](https://epicreact.dev/modules/epic-react-expert-interviews/creating-open-source-libraries-with-tanner-linsley)|react-query|
 
 &nbsp;&nbsp;&nbsp;
 
