@@ -46,6 +46,7 @@
 ## Videos
 | Title | Channel | Subjects |
 |-------|---------| ---------|
+|[Trying Svelte for the 3rd Time](https://www.youtube.com/watch?v=xgER1OutVvU)|Ben Awad|Svelte|
 
 
 &nbsp;&nbsp;&nbsp;
