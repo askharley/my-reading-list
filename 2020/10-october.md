@@ -5,7 +5,6 @@
 |Article|[Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)|JavaScript, Currying|Medium|
 |Article|[Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)|React|Medium|
 |Article|[Understanding Error Boundaries in React](https://blog.bitsrc.io/understanding-error-boundaries-in-react-e58f15ae1f38)|React, Error Boundaries|Medium|
-|Article|[How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)|DDD|AltKom|
 |Article|[Immutable Data Structures in JavaScript](https://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript)|Data Structures|James Long|
 |Article|[Five common mistakes writing react components (with hooks) in 2020](https://dev.to/lowe1111/five-common-mistakes-writing-react-components-with-hooks-in-2020-2ac3)|React|dev.to|
 |Article|[JavaScript: What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)|JavaScript, Callback|CodeBurst|
