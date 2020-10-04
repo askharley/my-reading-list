@@ -47,6 +47,7 @@
 | Title | Channel | Subjects |
 |-------|---------| ---------|
 |[Trying Svelte for the 3rd Time](https://www.youtube.com/watch?v=xgER1OutVvU)|Ben Awad|Svelte|
+|[Using Composition in React to Avoid "Prop Drilling"](https://www.youtube.com/watch?v=3XaXKiXtNjw)|React Training|Composition, Prop Drilling|
 
 
 &nbsp;&nbsp;&nbsp;
