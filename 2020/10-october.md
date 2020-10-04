@@ -39,6 +39,7 @@
 ## Docs
 | Title | Subjects |
 |-------|----------|
+|[Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)|Composition, Inheritance|
 
 &nbsp;&nbsp;&nbsp;
 
