@@ -68,4 +68,4 @@
 ## Repos
 | Title |
 |-------|
-
+|[managing-state-management-slides](https://github.com/kentcdodds/managing-state-management-slides)|
