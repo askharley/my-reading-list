@@ -49,6 +49,7 @@
 |[Trying Svelte for the 3rd Time](https://www.youtube.com/watch?v=xgER1OutVvU)|Ben Awad|Svelte|
 |[Using Composition in React to Avoid "Prop Drilling"](https://www.youtube.com/watch?v=3XaXKiXtNjw)|React Training|Composition, Prop Drilling|
 |[React Component Composition](https://www.youtube.com/watch?v=eLNS6GMejjw)|Kent C. Dodds|Composition|
+|[useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)|Academind|useState, useReducer|
 
 &nbsp;&nbsp;&nbsp;
 
