@@ -50,7 +50,7 @@
 |[Using Composition in React to Avoid "Prop Drilling"](https://www.youtube.com/watch?v=3XaXKiXtNjw)|React Training|Composition, Prop Drilling|
 |[React Component Composition](https://www.youtube.com/watch?v=eLNS6GMejjw)|Kent C. Dodds|Composition|
 |[useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)|Academind|useState, useReducer|
-|[Going Mini Viral on TikTok as a Programmer](https://www.youtube.com/watch?v=RxkLFAGetVQ)|Ben Awad||
+|[Going Mini Viral on TikTok as a Programmer](https://www.youtube.com/watch?v=RxkLFAGetVQ)|Ben Awad|General|
 
 &nbsp;&nbsp;&nbsp;
 
