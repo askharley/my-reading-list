@@ -57,6 +57,7 @@
 | Title | Subjects |
 |-------|---------|
 |[Using GitHub Codespaces with EpicReact.Dev](https://www.youtube.com/watch?v=A4MTOf8hPcE)|EpicReact.Dev, GitHub Codespaces|
+|[EpicReact.Dev Review of Advanced React Hooks](https://www.youtube.com/watch?v=y_6tdBzljBY)|EpicReact.Dev|
 
 &nbsp;&nbsp;&nbsp;
 
