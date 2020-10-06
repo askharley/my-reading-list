@@ -62,8 +62,9 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Podcasts
-| Title | Subjects | Source |
+| Title | Podcast | Source |
 |-------|---------|--------|
+| Establishing Your Personal Brand With Cassidy Williams | Chats with Kent | [Spotify](https://open.spotify.com/episode/42k9NL5ZaOmTfy9aXJYVdI?si=XxKXyy0OTkqIm9rV20dc6w) |
 
 &nbsp;&nbsp;&nbsp;
 
