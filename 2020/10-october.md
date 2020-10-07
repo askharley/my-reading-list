@@ -73,7 +73,7 @@
 ## Questions
 | Question |
 | -------- |
-|[Can I use Build Environment Variables in Netlify with Create-React-App?](https://stackoverflow.com/questions/52542840/can-i-use-build-environment-variables-in-netlify-with-create-react-app)]|
+|[Can I use Build Environment Variables in Netlify with Create-React-App?](https://stackoverflow.com/questions/52542840/can-i-use-build-environment-variables-in-netlify-with-create-react-app)|
 
 &nbsp;&nbsp;&nbsp;
 
