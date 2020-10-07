@@ -52,6 +52,7 @@
 |[useContext() + useReducer() = Magic?](https://www.youtube.com/watch?v=R_7XRX7nLsw)|Academind|useState, useReducer|
 |[Going Mini Viral on TikTok as a Programmer](https://www.youtube.com/watch?v=RxkLFAGetVQ)|Ben Awad|General|
 |[Michael Jackson - Composing Behavior in React or Why React Hooks are Awesome](https://www.youtube.com/watch?v=nUzLlHFVXx0)|React Loop|React Hooks|
+|[Make a SUPER simple personal URL shortener with Netlify](https://www.youtube.com/watch?v=HL6paXyx6hM)|Kent C. Dodds|URL Shortener|
 
 &nbsp;&nbsp;&nbsp;
 
