@@ -62,6 +62,7 @@
 |[Using GitHub Codespaces with EpicReact.Dev](https://www.youtube.com/watch?v=A4MTOf8hPcE)|Kent C. Dodds.|EpicReact.Dev, GitHub Codespaces|
 |[EpicReact.Dev Review of Advanced React Hooks](https://www.youtube.com/watch?v=y_6tdBzljBY)|Kent C. Dodds.|EpicReact.Dev|
 |[EpicReact.Dev Review of Advanced React Patterns](https://www.youtube.com/watch?v=rEMtM5vsWE8)|Kent C. Dodds.|EpicReact.Dev|
+|[EpicReact.Dev Review of React Performance](https://www.youtube.com/watch?v=aXVpX7eRRd8)|Kent C. Dodds.|EpicReact.Dev|
 
 &nbsp;&nbsp;&nbsp;
 
