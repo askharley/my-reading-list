@@ -57,10 +57,11 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Livestreams
-| Title | Subjects |
-|-------|---------|
-|[Using GitHub Codespaces with EpicReact.Dev](https://www.youtube.com/watch?v=A4MTOf8hPcE)|EpicReact.Dev, GitHub Codespaces|
-|[EpicReact.Dev Review of Advanced React Hooks](https://www.youtube.com/watch?v=y_6tdBzljBY)|EpicReact.Dev|
+| Title |  Channel | Subjects |
+|-------|----------|---------|
+|[Using GitHub Codespaces with EpicReact.Dev](https://www.youtube.com/watch?v=A4MTOf8hPcE)|Kent C. Dodds.|EpicReact.Dev, GitHub Codespaces|
+|[EpicReact.Dev Review of Advanced React Hooks](https://www.youtube.com/watch?v=y_6tdBzljBY)|Kent C. Dodds.|EpicReact.Dev|
+|[Livestream with Kent: EpicReact.Dev Review of Advanced React Patterns](https://www.youtube.com/watch?v=rEMtM5vsWE8)|Kent C. Dodds.|EpicReact.Dev|
 
 &nbsp;&nbsp;&nbsp;
 
