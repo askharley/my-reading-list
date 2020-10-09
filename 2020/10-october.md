@@ -73,6 +73,8 @@
 |-------|---------|
 |[Establishing Your Personal Brand With Cassidy Williams](https://open.spotify.com/episode/42k9NL5ZaOmTfy9aXJYVdI?si=XxKXyy0OTkqIm9rV20dc6w)|Chats with Kent|
 |[Growing Your Skills And Career Through Teaching with Ali Spittel](https://open.spotify.com/episode/0j9RE1H47GSmBnRqOtf1dx?si=eXC3OHGSQ22Qikdh3qrQIA)|Chats with Kent|
+|[Realigning Your Model of React After Hooks With Dan Abramov](https://open.spotify.com/episode/1C7G7XgkVOLOf5cvngrDdH?si=Ef4YyqH3Q1qkaNHpWPkYTA)|Chats with Kent|
+|[A Rundown Of What's Next For React With Dan Abramov](https://open.spotify.com/episode/3Mkh1WMo9JZlGkEG6ZNf51?si=lRXFHNP_TDCKxP6aUQVn1Q)|Chats with Kent|
 
 &nbsp;&nbsp;&nbsp;
 
