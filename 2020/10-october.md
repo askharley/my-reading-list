@@ -67,7 +67,7 @@
 |[EpicReact.Dev Review of React Performance](https://www.youtube.com/watch?v=aXVpX7eRRd8)|Kent C. Dodds.|EpicReact.Dev|
 |[EpicReact.Dev Review of Testing React Apps](https://www.youtube.com/watch?v=rJr3EZXf2ms)|Kent C. Dodds.|EpicReact.Dev|
 |[EpicReact.Dev Review of React Suspense](https://www.youtube.com/watch?v=39K7X_6mR8M)|Kent C. Dodds.|EpicReact.Dev|
-|[KCD Office Hours 2020-10-08](https://www.youtube.com/watch?v=JSFbDWm_xLs)|Kent C. Dodds.|EpicReact.Dev|
+|[KCD Office Hours 2020-10-08](https://www.youtube.com/watch?v=JSFbDWm_xLs)|Kent C. Dodds.|Random|
 
 &nbsp;&nbsp;&nbsp;
 
