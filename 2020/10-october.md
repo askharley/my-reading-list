@@ -55,6 +55,8 @@
 |[Make a SUPER simple personal URL shortener with Netlify](https://www.youtube.com/watch?v=HL6paXyx6hM)|Kent C. Dodds|URL Shortener|
 |[Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0)|Kent C. Dodds|React Patterns|
 |[Remix Preview #1](https://www.youtube.com/watch?v=MYxwlmeyu9w)|Remix|Remix|
+|[Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)|ReactEurope|Redux|
+|[Scott Tolinski: Fast & Furious Learning](https://www.youtube.com/watch?v=xK3BhwDRuL8)|Vercel|Learning|
 
 &nbsp;&nbsp;&nbsp;
 
