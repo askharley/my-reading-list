@@ -58,6 +58,7 @@
 |[Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU)|ReactEurope|Redux|
 |[Scott Tolinski: Fast & Furious Learning](https://www.youtube.com/watch?v=xK3BhwDRuL8)|Vercel|Learning|
 |["Yes You Should Write That Blog Post!" by Ali Spittel](https://www.youtube.com/watch?v=7eKEQEOutIE)|AWS Portsmouth User Group|Blogging|
+|[Next.js: The React Framework](https://www.youtube.com/watch?v=KC7j3DtOnYE)|Pusher|Next.js|
 
 &nbsp;&nbsp;&nbsp;
 
