@@ -18,6 +18,7 @@
 ## Videos
 | Title | Subjects | Source |
 |-------|---------|--------|
+|[TypeScript in 100 Seconds](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)|TypeScript|Fireship|
 
 &nbsp;&nbsp;&nbsp;
 
