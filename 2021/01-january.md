@@ -20,6 +20,7 @@
 |-------|---------|--------|
 |[TypeScript in 100 Seconds](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)|TypeScript|Fireship|
 |[TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)|TypeScript|Fireship|
+|[React Typescript Tutorial](https://www.youtube.com/watch?v=Z5iWr6Srsj8)|TypeScript, React|Ben Awad|
 
 &nbsp;&nbsp;&nbsp;
 
