@@ -15,6 +15,7 @@
 ## Docs
 | Title | Subjects |
 |-------|---------|
+|[Adding TypeScript](https://create-react-app.dev/docs/adding-typescript/)|React, TypeScript|
 
 
 &nbsp;&nbsp;&nbsp;
