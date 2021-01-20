@@ -5,7 +5,7 @@
 |[But really, what is a JavaScript test?](https://kentcdodds.com/blog/but-really-what-is-a-javascript-test)|React Testing|Kent C. Dodds|
 |[But really, what is a JavaScript mock?](https://kentcdodds.com/blog/but-really-what-is-a-javascript-mock)|React Testing|Kent C. Dodds|
 |[Avoid the Test User](https://kentcdodds.com/blog/avoid-the-test-user)|Testing||
-|[Demystifying Testing](https://kentcdodds.com/blog/demystifying-testingk)|Testing||
+|[Demystifying Testing](https://kentcdodds.com/blog/demystifying-testing)|Testing|Kent C. Dodds|
 |[How to add testing to an existing project](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)|Testing||
 |[Why you've been bad about testing](https://kentcdodds.com/blog/why-youve-been-bad-about-testing)|Testing||
 
