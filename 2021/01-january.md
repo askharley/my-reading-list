@@ -7,7 +7,7 @@
 |[Avoid the Test User](https://kentcdodds.com/blog/avoid-the-test-user)|Testing||
 |[Demystifying Testing](https://kentcdodds.com/blog/demystifying-testing)|Testing|Kent C. Dodds|
 |[How to add testing to an existing project](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)|Testing||
-|[Why you've been bad about testing](https://kentcdodds.com/blog/why-youve-been-bad-about-testing)|Testing||
+|[Why you've been bad about testing](https://kentcdodds.com/blog/why-youve-been-bad-about-testing)|Testing|Kent C. Dodds|
 
 
 &nbsp;&nbsp;&nbsp;
