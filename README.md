@@ -11,4 +11,4 @@
 
 ### 2021
 
-- [Januaury](https://github.com/askharley/my-content-list/blob/master/2021/01-january.md)
+- [January](https://github.com/askharley/my-content-list/blob/master/2021/01-january.md)
