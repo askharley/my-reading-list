@@ -8,6 +8,7 @@
 |[Demystifying Testing](https://kentcdodds.com/blog/demystifying-testing)|Testing|Kent C. Dodds|
 |[How to add testing to an existing project](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)|Testing||
 |[Why you've been bad about testing](https://kentcdodds.com/blog/why-youve-been-bad-about-testing)|Testing|Kent C. Dodds|
+|[Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests)|Testing|Kent C. Dodds|
 
 
 &nbsp;&nbsp;&nbsp;
