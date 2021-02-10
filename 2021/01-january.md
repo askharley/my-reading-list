@@ -29,6 +29,7 @@
 |[React Typescript Tutorial](https://www.youtube.com/watch?v=Z5iWr6Srsj8)|TypeScript, React|Ben Awad|
 |[Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)|Cypress|Fireship|
 |[Brian Mann – I see your point, but…](https://www.youtube.com/watch?v=5XQOK0v_YRE)|Cypress|OKG!|
+|[5 JavaScript Concepts You HAVE TO KNOW](https://www.youtube.com/watch?v=a00NRSFgHsY)|JavaScript|James Q Quick|
 
 &nbsp;&nbsp;&nbsp;
 
